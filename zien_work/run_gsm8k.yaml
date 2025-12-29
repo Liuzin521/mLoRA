@@ -1,0 +1,41 @@
+# 这里的名字随便起，主要用于区分不同的训练任务
+dispatcher:
+  name: "default"
+  concurrency_num: 1
+
+datasets:
+  - name: "gsm8k_task"
+    data: "zien_work/gsm8k_train.json"
+    prompt: "demo/prompt.yaml"
+    prompt_type: "instruction"
+    preprocess: "default"
+
+adapters:
+  - name: "my_gsm8k_lora"
+    type: "lora"
+    path: "zien_work/adapters/llama3_gsm8k_res"
+    optimizer: "adamw"
+    lr: 1e-4
+    r: 16
+    alpha: 32
+    dropout: 0.05
+    # 这些是 Llama-3.1 模型里的零部件名称，告诉 LoRA 要去改装哪些零件
+    target_modules:
+      q_proj: true
+      k_proj: true
+      v_proj: true
+      o_proj: true
+      gate_proj: true
+      down_proj: true
+      up_proj: true
+
+tasks:
+  - type: "train"
+    name: "gsm8k_training_job"
+    adapter: "my_gsm8k_lora"
+    dataset: "gsm8k_task"
+    batch_size: 4       # 如果显存不够（比如报错 OOM），把这个数字改小，比如改成 2 或 1
+    mini_batch_size: 2
+    num_epochs: 1       # 训练几轮。为了快速测试，先设为 1
+    cutoff_len: 256     # 每道题最长读多少字。GSM8K 比较长，显存够的话可以改大到 512
+    save_step: 100

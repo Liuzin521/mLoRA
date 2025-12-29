@@ -1,0 +1,254 @@
+dispatcher:
+  name: "default"
+  concurrency_num: 4
+
+datasets:
+  - name: "gsm8k_data"
+    data: "zien_work/gsm8k_train.json"
+    prompt: "demo/prompt.yaml"
+    prompt_type: "instruction"
+    preprocess: "shuffle"
+
+adapters:
+  # === 模拟超参数搜索：不同 Rank (r) 和 Alpha ===
+  - name: "lora_r64_a32_0"
+    type: "lora"
+    path: "zien_work/adapters/4card_test/lora_0"
+    optimizer: "adamw"
+    lr: 5.0e-05
+    r: 64
+    alpha: 32
+    dropout: 0.05
+    target_modules: {q_proj: true, k_proj: true, v_proj: true, o_proj: true}
+
+  - name: "lora_r64_a32_1"
+    type: "lora"
+    path: "zien_work/adapters/4card_test/lora_1"
+    optimizer: "adamw"
+    lr: 5.0e-05
+    r: 64
+    alpha: 32
+    dropout: 0.05
+    target_modules: {q_proj: true, k_proj: true, v_proj: true, o_proj: true}
+
+  - name: "lora_r64_a32_2"
+    type: "lora"
+    path: "zien_work/adapters/4card_test/lora_2"
+    optimizer: "adamw"
+    lr: 5.0e-05
+    r: 64
+    alpha: 32
+    dropout: 0.05
+    target_modules: {q_proj: true, k_proj: true, v_proj: true, o_proj: true}
+
+  - name: "lora_r64_a64_3"
+    type: "lora"
+    path: "zien_work/adapters/4card_test/lora_3"
+    optimizer: "adamw"
+    lr: 5.0e-05
+    r: 64
+    alpha: 64
+    dropout: 0.05
+    target_modules: {q_proj: true, k_proj: true, v_proj: true, o_proj: true}
+
+  - name: "lora_r64_a64_4"
+    type: "lora"
+    path: "zien_work/adapters/4card_test/lora_4"
+    optimizer: "adamw"
+    lr: 5.0e-05
+    r: 64
+    alpha: 64
+    dropout: 0.05
+    target_modules: {q_proj: true, k_proj: true, v_proj: true, o_proj: true}
+
+  - name: "lora_r64_a64_5"
+    type: "lora"
+    path: "zien_work/adapters/4card_test/lora_5"
+    optimizer: "adamw"
+    lr: 5.0e-05
+    r: 64
+    alpha: 64
+    dropout: 0.05
+    target_modules: {q_proj: true, k_proj: true, v_proj: true, o_proj: true}
+
+  - name: "lora_r128_a32_6"
+    type: "lora"
+    path: "zien_work/adapters/4card_test/lora_6"
+    optimizer: "adamw"
+    lr: 5.0e-05
+    r: 128
+    alpha: 32
+    dropout: 0.05
+    target_modules: {q_proj: true, k_proj: true, v_proj: true, o_proj: true}
+
+  - name: "lora_r128_a32_7"
+    type: "lora"
+    path: "zien_work/adapters/4card_test/lora_7"
+    optimizer: "adamw"
+    lr: 5.0e-05
+    r: 128
+    alpha: 32
+    dropout: 0.05
+    target_modules: {q_proj: true, k_proj: true, v_proj: true, o_proj: true}
+
+  - name: "lora_r128_a32_8"
+    type: "lora"
+    path: "zien_work/adapters/4card_test/lora_8"
+    optimizer: "adamw"
+    lr: 5.0e-05
+    r: 128
+    alpha: 32
+    dropout: 0.05
+    target_modules: {q_proj: true, k_proj: true, v_proj: true, o_proj: true}
+
+  - name: "lora_r128_a64_9"
+    type: "lora"
+    path: "zien_work/adapters/4card_test/lora_9"
+    optimizer: "adamw"
+    lr: 5.0e-05
+    r: 128
+    alpha: 64
+    dropout: 0.05
+    target_modules: {q_proj: true, k_proj: true, v_proj: true, o_proj: true}
+
+  - name: "lora_r128_a64_10"
+    type: "lora"
+    path: "zien_work/adapters/4card_test/lora_10"
+    optimizer: "adamw"
+    lr: 5.0e-05
+    r: 128
+    alpha: 64
+    dropout: 0.05
+    target_modules: {q_proj: true, k_proj: true, v_proj: true, o_proj: true}
+
+  - name: "lora_r128_a64_11"
+    type: "lora"
+    path: "zien_work/adapters/4card_test/lora_11"
+    optimizer: "adamw"
+    lr: 5.0e-05
+    r: 128
+    alpha: 64
+    dropout: 0.05
+    target_modules: {q_proj: true, k_proj: true, v_proj: true, o_proj: true}
+
+tasks:
+  # === 12个任务排队跑，每次同时跑 4 个 ===
+  - type: "train"
+    name: "task_0"
+    adapter: "lora_r64_a32_0"
+    dataset: "gsm8k_data"
+    batch_size: 4
+    mini_batch_size: 4
+    num_epochs: 1
+    cutoff_len: 256
+    save_step: 1000
+
+  - type: "train"
+    name: "task_1"
+    adapter: "lora_r64_a32_1"
+    dataset: "gsm8k_data"
+    batch_size: 8
+    mini_batch_size: 8
+    num_epochs: 1
+    cutoff_len: 256
+    save_step: 1000
+
+  - type: "train"
+    name: "task_2"
+    adapter: "lora_r64_a32_2"
+    dataset: "gsm8k_data"
+    batch_size: 16
+    mini_batch_size: 16
+    num_epochs: 1
+    cutoff_len: 256
+    save_step: 1000
+
+  - type: "train"
+    name: "task_3"
+    adapter: "lora_r64_a64_3"
+    dataset: "gsm8k_data"
+    batch_size: 4
+    mini_batch_size: 4
+    num_epochs: 1
+    cutoff_len: 256
+    save_step: 1000
+
+  - type: "train"
+    name: "task_4"
+    adapter: "lora_r64_a64_4"
+    dataset: "gsm8k_data"
+    batch_size: 8
+    mini_batch_size: 8
+    num_epochs: 1
+    cutoff_len: 256
+    save_step: 1000
+
+  - type: "train"
+    name: "task_5"
+    adapter: "lora_r64_a64_5"
+    dataset: "gsm8k_data"
+    batch_size: 16
+    mini_batch_size: 16
+    num_epochs: 1
+    cutoff_len: 256
+    save_step: 1000
+
+  - type: "train"
+    name: "task_6"
+    adapter: "lora_r128_a32_6"
+    dataset: "gsm8k_data"
+    batch_size: 4
+    mini_batch_size: 4
+    num_epochs: 1
+    cutoff_len: 256
+    save_step: 1000
+
+  - type: "train"
+    name: "task_7"
+    adapter: "lora_r128_a32_7"
+    dataset: "gsm8k_data"
+    batch_size: 8
+    mini_batch_size: 8
+    num_epochs: 1
+    cutoff_len: 256
+    save_step: 1000
+
+  - type: "train"
+    name: "task_8"
+    adapter: "lora_r128_a32_8"
+    dataset: "gsm8k_data"
+    batch_size: 16
+    mini_batch_size: 16
+    num_epochs: 1
+    cutoff_len: 256
+    save_step: 1000
+
+  - type: "train"
+    name: "task_9"
+    adapter: "lora_r128_a64_9"
+    dataset: "gsm8k_data"
+    batch_size: 4
+    mini_batch_size: 4
+    num_epochs: 1
+    cutoff_len: 256
+    save_step: 1000
+
+  - type: "train"
+    name: "task_10"
+    adapter: "lora_r128_a64_10"
+    dataset: "gsm8k_data"
+    batch_size: 8
+    mini_batch_size: 8
+    num_epochs: 1
+    cutoff_len: 256
+    save_step: 1000
+
+  - type: "train"
+    name: "task_11"
+    adapter: "lora_r128_a64_11"
+    dataset: "gsm8k_data"
+    batch_size: 16
+    mini_batch_size: 16
+    num_epochs: 1
+    cutoff_len: 256
+    save_step: 1000

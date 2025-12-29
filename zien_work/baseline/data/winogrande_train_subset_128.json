@@ -1,0 +1,642 @@
+[
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: John moved the couch from the garage to the backyard to create space. The _ is small.\n\nOption 1: garage\nOption 2: backyard\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: The doctor diagnosed Justin with bipolar and Robert with anxiety. _ had terrible nerves recently.\n\nOption 1: Justin\nOption 2: Robert\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Dennis drew up a business proposal to present to Logan because _ wants his investment.\n\nOption 1: Dennis\nOption 2: Logan\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Felicia unexpectedly made fried eggs for breakfast in the morning for Katrina and now _ owes a favor.\n\nOption 1: Felicia\nOption 2: Katrina\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: My shampoo did not lather easily on my Afro hair because the _ is too dirty.\n\nOption 1: shampoo\nOption 2: hair\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: The circuit failed to power the television but kept the radio going, as the _ had a weak connection.\n\nOption 1: television\nOption 2: radio\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Emily was thrown out of the court for the lawsuit against Carrie because _ was the only one acting disruptively.\n\nOption 1: Emily\nOption 2: Carrie\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: The shop owner said that Sarah purchased several pieces of furniture unlike Rachel, due to _ being poor.\n\nOption 1: Sarah\nOption 2: Rachel\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Neil told Craig that he has to take care of the child for the day because _ promised to do so.\n\nOption 1: Neil\nOption 2: Craig\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Neil told Craig that he has to take care of the child for the day because _ did it last time.\n\nOption 1: Neil\nOption 2: Craig\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Elena wanted to have a serious conversation with Laura who did not, so _ adopted a humorous tone.\n\nOption 1: Elena\nOption 2: Laura\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Victoria couldn't wait to learn what Laura had to teach, so _ happily gave notes on the lesson.\n\nOption 1: Victoria\nOption 2: Laura\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: I'd definitely rather get poked in the bellybutton than the eye since the _ is so sensitive.\n\nOption 1: eye\nOption 2: bellybutton\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Rebecca was slimmer than Carrie, so _ started to worry about calories and a diet.\n\nOption 1: Rebecca\nOption 2: Carrie\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: The  was more careful unloading the eggs than the tomatoes into the house because the _ were tougher.\n\nOption 1: eggs\nOption 2: tomatoes\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Patricia tried to lecture Felicia on how to lose weight despite the fact that _ is overweight and needs to diet.\n\nOption 1: Patricia\nOption 2: Felicia\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Amy was worried that her hair looked greasy, so she asked Monica, but _ regretted asking.\n\nOption 1: Amy\nOption 2: Monica\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: The fish swam away from Neil and towards Robert because _ was pouring the food in the aquarium.\n\nOption 1: Neil\nOption 2: Robert\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: The car hit Joel but not Randy because _ was in the middle of the sidewalk.\n\nOption 1: Joel\nOption 2: Randy\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: James wanted to drink his cup of coffee but he could not until he added some water to cool it down. The _ is cold.\n\nOption 1: water\nOption 2: coffee\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Cara wanted to open a new bank account, but they ran a credit report and she was denied because the _ was bad.\n\nOption 1: bank\nOption 2: credit\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Jessica lost to Jennifer at darts at the fair, so ( _ ) won the goldfish in a bag.\n\nOption 1: Jessica\nOption 2: Jennifer\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Donald was not called a fake while Leslie was because _ lied about the experience.\n\nOption 1: Donald\nOption 2: Leslie\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Erin was very comfortable outside during winter unlike Cynthia because _ had a very thick coat.\n\nOption 1: Erin\nOption 2: Cynthia\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Erin was very comfortable outside during winter unlike Cynthia because _ had a very thin coat.\n\nOption 1: Erin\nOption 2: Cynthia\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: James slid down from the top of the roof to the fence because the _ is shorter.\n\nOption 1: roof\nOption 2: fence\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: James slid down from the top of the roof to the fence because the _ is taller.\n\nOption 1: roof\nOption 2: fence\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: The insurance for the car was more expensive than the insurance for the truck because the _ was older.\n\nOption 1: truck\nOption 2: car\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Given the size of the belly when a woman is pregnant she may have a hard time driving a car as the _ will be confining.\n\nOption 1: belly\nOption 2: car\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Brian came with his girlfriend while Eric came alone. She was always separated from _ .\n\nOption 1: Brian\nOption 2: Eric\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: The baby slept better in the crib by themselves than in the bed with their mother because there was more movement on the _ mattress.\n\nOption 1: crib\nOption 2: bed\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: The mall was farther to Lawrence than Dennis, so _ always went shopping and eating out there.\n\nOption 1: Lawrence\nOption 2: Dennis\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: When we dissolved our partnership, Bill took my stapler and my garbage bin; the joke's on him because the _ was empty when he took it.\n\nOption 1: stapler\nOption 2: bin\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Ian sat outside on the porch longer than Aaron because _  wanted to watch the birds.\n\nOption 1: Ian\nOption 2: Aaron\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Ian sate outside on the porch longer than Aaron because _ wanted to watch the television.\n\nOption 1: Ian\nOption 2: Aaron\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Dean was learning how to park a car but got into a collision with a wall. The _ was farther than he expected.\n\nOption 1: car\nOption 2: wall\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Dan gathered together extra clothes and extra food in case of a disaster, but the _ got wet and went bad.\n\nOption 1: food\nOption 2: clothes\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: The many found many aquamarine gemstones in the mine, but very few gold nuggets since the _ were rare.\n\nOption 1: gemstones\nOption 2: nuggets\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Derrick wanted to solidify the pact, but Lawrence was doubtful, so _ did their best to hear them out.\n\nOption 1: Derrick\nOption 2: Lawrence\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Kim wanted breasts, so the doctor said to either get surgery to put in implants or fats. She decided to get the _ because they were unnatural.\n\nOption 1: fats\nOption 2: implants\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Kayla is a vegetarian and Christine did not like to eat any vegetables. _ added broccoli in the pasta.\n\nOption 1: Kayla\nOption 2: Christine\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Grace hooked the dogs up to the sled with cording instead of rope, because the _ was fraying.\n\nOption 1: rope\nOption 2: cording\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: She wanted to save more money so she cut back on buying a daily magazine but not coffee because the _ was inessential.\n\nOption 1: magazine\nOption 2: coffee\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: She wanted to save more money so she cut back on buying a daily magazine but not coffee because the _ was essential.\n\nOption 1: magazine\nOption 2: coffee\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: We wanted to travel by cab rather than wait for the bus , but _ proved to be more unreliable for our journey.\n\nOption 1: cab\nOption 2: bus\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: John had to print more shirts to circulate within the team members. The _ are few.\n\nOption 1: shirts\nOption 2: members\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Clarence didn't get any candy but instead bought popcorn at the theater instead. There wasn't a free refill with the _ .\n\nOption 1: candy\nOption 2: popcorn\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Tanya earned extra money for college by tutoring Carrie, because _ was a good student.\n\nOption 1: Tanya\nOption 2: Carrie\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: During the experiment Jennifer poured the liquid into the container while Amy directed the experiment because _ was an assistant.\n\nOption 1: Jennifer\nOption 2: Amy\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Eric hacked into the movie star Ian's cell phone because _ was well known from major films.\n\nOption 1: Eric\nOption 2: Ian\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Joel broke a hole through Derrick's lattice fence when trying to climb it, so _ offered to repair it.\n\nOption 1: Joel\nOption 2: Derrick\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: The pollen in the air caused Dennis to have a lot of sneezes but not Hunter. _ had to take some Claritin.\n\nOption 1: Dennis\nOption 2: Hunter\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: The acid in the vat was not able to damage the table below it, as the _ did not leak any of it.\n\nOption 1: vat\nOption 2: table\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: The running time of the meeting was much greater than the earlier presentation, because the _ was more detailed.\n\nOption 1: meeting\nOption 2: presentation\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Sarah tried to fire Laura to plant a tree and flower in their backyard but _ was going on vacation.\n\nOption 1: Sarah\nOption 2: Laura\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: When Derrick saw a coyote on his property, Christopher begged him not to kill it because _ is an animal activist.\n\nOption 1: Derrick\nOption 2: Christopher\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: The cook added a bunch of salt from the bottle to the pan, so the _ was heavier.\n\nOption 1: bottle\nOption 2: pan\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: The cook added a bunch of salt from the bottle to the pan, so the _ was lighter.\n\nOption 1: bottle\nOption 2: pan\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: The heavy wind and fog made driving difficult, especially in the dark. The _ cut visibility in the car too much.\n\nOption 1: fog\nOption 2: wind\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Last month Elena went on vacation but not Christine because _ had to take time off.\n\nOption 1: Elena\nOption 2: Christine\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: He couldn't take the clear photograph of the car on a highway using the camera because the _ was so slow.\n\nOption 1: car\nOption 2: camera\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: I wanted to learn to operate a bulldozer this summer at the mine, so I asked my uncle to show me at the _ .\n\nOption 1: bulldozer\nOption 2: mine\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Christine broke all of Jessica's old high school baseball records making _ feel somewhat annoyed.\n\nOption 1: Christine\nOption 2: Jessica\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: William went to school after hours to ask Eric for help him familiarize himself with the required texts, _ knew the test was imminent.\n\nOption 1: William\nOption 2: Eric\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Because Tanya stretched before their run and Sarah didn't, _ got a cramp and had to stop.\n\nOption 1: Tanya\nOption 2: Sarah\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Although Tanya stretched before their run and Sarah didn't, _ got a cramp and had to stop.\n\nOption 1: Tanya\nOption 2: Sarah\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: The fish swam toward Eric and around Leslie because _ had the tasty fish pellets.\n\nOption 1: Eric\nOption 2: Leslie\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: A leg of lamb is a luxury but pig's heart is not because the _ is very cheap.\n\nOption 1: lamb\nOption 2: heart\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: It is extremely easy to measure a golf club using a ruler.  The _ is for sports.\n\nOption 1: ruler\nOption 2: club\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Katrina loaned their jacket to Carrie during the cold night, although _ was feeling cold themselves.\n\nOption 1: Katrina\nOption 2: Carrie\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Katrina loaned their jacket to Carrie during the cold night, because _ was feeling cold.\n\nOption 1: Katrina\nOption 2: Carrie\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Angela prefers to wear skirts while Amy prefers long pants.  _  wears socks.\n\nOption 1: Angela\nOption 2: Amy\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Angela prefers to wear skirts while Amy prefers long pants.  _  wears pantyhose.\n\nOption 1: Angela\nOption 2: Amy\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Michael was telling Justin about this monster fish he caught his past weekend.  _ was reminiscent.\n\nOption 1: Michael\nOption 2: Justin\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: We didn't go to the bank as often as the ATM because the _ was a lot closer to home.\n\nOption 1: bank\nOption 2: ATM\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Ian brought books for the kids while Eric brought toys because _ wanted to make babysitting fun.\n\nOption 1: Ian\nOption 2: Eric\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: While Victoria preferred fruits, Felicia preferred to eat vegetables because _ liked foods that were naturally sweet.\n\nOption 1: Victoria\nOption 2: Felicia\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: While Victoria preferred fruits, Felicia preferred to eat vegetables because _ liked foods that were naturally savory.\n\nOption 1: Victoria\nOption 2: Felicia\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Mary has bad dandruff, but Cynthia has never had that issue. _ lives in a wetter climate.\n\nOption 1: Mary\nOption 2: Cynthia\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Mary has bad dandruff, but Cynthia has never had that issue. _ lives in a dryer climate.\n\nOption 1: Mary\nOption 2: Cynthia\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Robert prepared a powerpoint presentation to show Kenneth the state of the economy because _ is the president.\n\nOption 1: Robert\nOption 2: Kenneth\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Betty wanted to do a deal to sort out a problem but Sarah would not because _ was a very peaceful person.\n\nOption 1: Betty\nOption 2: Sarah\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Playing music came much more naturally to Hunter than Kevin although _ hated the clarinet.\n\nOption 1: Hunter\nOption 2: Kevin\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: The spray cleaned the windows better than it cleaned the walls because the _ were non-porous.\n\nOption 1: windows\nOption 2: walls\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Natalie liked the chair they just bought and Betty always wanted it, so _ is sad right now.\n\nOption 1: Natalie\nOption 2: Betty\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: The children of Hunter were very polite unlike the kids of Jeffrey, due to _ raising them wrong.\n\nOption 1: Hunter\nOption 2: Jeffrey\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Samantha helped Rachel study for her high school exams because _ is a good student.\n\nOption 1: Samantha\nOption 2: Rachel\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Everyone wanted to be a mermaid at the Halloween party, but the costume at the store only fit Christine and not Jennifer because _ was slender.\n\nOption 1: Christine\nOption 2: Jennifer\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Everyone wanted to be a mermaid at the Halloween party, but the costume at the store only fit Christine and not Jennifer because _ was obese.\n\nOption 1: Christine\nOption 2: Jennifer\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: The farmer grew his potatoes without using pesticides because he didn't want the _ to destroy.\n\nOption 1: potatoes\nOption 2: pesticides\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Jean preferred to use the scrub over the body soap to clean off dead skin because the _ was harsher.\n\nOption 1: scrub\nOption 2: body soap\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Jean preferred to use the scrub over the body soap to clean off dead skin because the _ was too gentle.\n\nOption 1: scrub\nOption 2: body soap\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: The pig needed a bath but we went through the wash rather than using the hose since the _ covered most of the pig.\n\nOption 1: wash\nOption 2: hose\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Samuel could really smell the wet dog on the furniture of the rental, whereas Matthew couldn't despite  _ having a stronger sense of smell.\n\nOption 1: Samuel\nOption 2: Matthew\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Gem went to get new supplies for her hamster and she found snacks and exercise balls She chose the _ because her hamster was fat.\n\nOption 1: exercise balls\nOption 2: snacks\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Gem went to get new supplies for her hamster and she found snacks and exercise balls She chose the _ because her hamster was skinny.\n\nOption 1: exercise balls\nOption 2: snacks\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Samuel always wore a condom when the met a new lover, but Craig rarely ever wore on. _ caught genital warts from a dirty girl.\n\nOption 1: Samuel\nOption 2: Craig\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Samuel always wore a condom when the met a new lover, but Craig rarely ever wore on. _ never contracted genital warts from a dirty girl.\n\nOption 1: Samuel\nOption 2: Craig\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Cynthia but not Maria will be put on punishment because _ did not break the glass in the kitchen.\n\nOption 1: Cynthia\nOption 2: Maria\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Natalie was being cold to Katrina because _ was angry about the broken gold necklace that had sentimental value.\n\nOption 1: Natalie\nOption 2: Katrina\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Natalie was being cold to Katrina because _ broke her gold necklace that had sentimental value.\n\nOption 1: Natalie\nOption 2: Katrina\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Jason hated walking the runway more than taking photographs because the audience could be rowdy but the _ meant there would not be an audience.\n\nOption 1: runway\nOption 2: photographs\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: The pan placed over the flame do not get hot fast enough because the _ is low.\n\nOption 1: pan\nOption 2: flame\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: The pan placed over the flame do not get hot fast enough because the _ is high.\n\nOption 1: pan\nOption 2: flame\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Michael had such a simple life compared to Steven because _ came from a poor family.\n\nOption 1: Michael\nOption 2: Steven\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Michael had such a simple life compared to Steven because _ came from a rich family.\n\nOption 1: Michael\nOption 2: Steven\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: I tried to hook my shoe organizer onto my door, but it failed to fit because the _ is too thick; so I put it on a smaller door.\n\nOption 1: door\nOption 2: hook\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: I tried to hook my shoe organizer onto my door, but it failed to fit because the _ is too short; so I put it on a smaller door.\n\nOption 1: door\nOption 2: hook\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Jennifer had to drive Lindsey to school on Monday, because _ was the only one with a class.\n\nOption 1: Jennifer\nOption 2: Lindsey\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Joey bought some caramel glazing to use for bread decoration but the _ was too big.\n\nOption 1: bread\nOption 2: glazing\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Joey bought some caramel glazing to use for bread decoration but the _ was not enough.\n\nOption 1: bread\nOption 2: glazing\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Lawrence asked Eric to show him and his kids how to whistle really loud but _ reconsidered.\n\nOption 1: Lawrence\nOption 2: Eric\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Kenneth went to the store to buy a cage for William's new pet rabbit. _ was happy to get a new home for the rabbit.\n\nOption 1: Kenneth\nOption 2: William\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Kenneth went to the store to buy a cage for William's new pet rabbit. _ was surprised at the cost of a new home for the rabbit.\n\nOption 1: Kenneth\nOption 2: William\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: The man had to replace his shoes after his vest because the leather on the _ was cracked.\n\nOption 1: shoes\nOption 2: vest\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Copper was one of the more expensive metals. More so than bronze, since the _ was rare.\n\nOption 1: copper\nOption 2: bronze\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Lindsey wanted to write a letter to Betty even though she knew _ would never send it.\n\nOption 1: Lindsey\nOption 2: Betty\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Donald invited Brett to Paris because _ knew how to speak the native language perfectly.\n\nOption 1: Donald\nOption 2: Brett\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Donald invited Brett to Paris because _ didn't know how to speak the native language.\n\nOption 1: Donald\nOption 2: Brett\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Angela liked to take a long relaxing bath after work while Sarah only takes showers, so _ took a long shower after work.\n\nOption 1: Angela\nOption 2: Sarah\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: At yoga class Patricia directed everyone in class, including Megan, to stretch their inner thighs. _ was an experienced yoga teacher so  could reach  toes.\n\nOption 1: Patricia\nOption 2: Megan\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Derrick paid for their dinner but Steven wanted their's for free because _ was generous.\n\nOption 1: Derrick\nOption 2: Steven\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Derrick paid for their dinner but Steven wanted their's for free because _ was mean.\n\nOption 1: Derrick\nOption 2: Steven\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Donald apologized to Craig and accepted the blame and consequences, because _ is an honest person.\n\nOption 1: Donald\nOption 2: Craig\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Emily had big dreams of becoming an actress, unlike Cynthia, so _ moved to the country.\n\nOption 1: Emily\nOption 2: Cynthia\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 2"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Susan was making a cake for a party and she had an egg but didn't have milk. It was unnecessary to go to the store for the _ .\n\nOption 1: egg\nOption 2: milk\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: Despite being allergic to mango sap, Samantha wants to try Victoria's mango ice cream, but _ tries only one drop initially.\n\nOption 1: Samantha\nOption 2: Victoria\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given a sentence with a blank (indicated by _) and two options. Choose the option that best fits the blank to create a coherent sentence. Respond with ONLY the number 1 or 2, corresponding to your choice.\n\nSentence: We liked the comedy show more than we liked the play because the performers interacted with us less during the _ .\n\nOption 1: play\nOption 2: comedy show\n\nWhich option best fits the blank? Answer with 1 or 2.",
+        "input": "",
+        "chosen": "The answer is: 1"
+    }
+]

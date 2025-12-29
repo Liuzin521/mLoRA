@@ -1,0 +1,642 @@
+[
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Amrozi accused his brother , whom he called \" the witness \" , of deliberately distorting his evidence .\n\nSentence 2: Referring to him as only \" the witness \" , Amrozi accused his brother of deliberately distorting his evidence .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Yucaipa owned Dominick 's before selling the chain to Safeway in 1998 for $ 2.5 billion .\n\nSentence 2: Yucaipa bought Dominick 's in 1995 for $ 693 million and sold it to Safeway for $ 1.8 billion in 1998 .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: They had published an advertisement on the Internet on June 10 , offering the cargo for sale , he added .\n\nSentence 2: On June 10 , the ship 's owners had published an advertisement on the Internet , offering the explosives for sale .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Around 0335 GMT , Tab shares were up 19 cents , or 4.4 % , at A $ 4.56 , having earlier set a record high of A $ 4.57 .\n\nSentence 2: Tab shares jumped 20 cents , or 4.6 % , to set a record closing high at A $ 4.57 .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The stock rose $ 2.11 , or about 11 percent , to close Friday at $ 21.51 on the New York Stock Exchange .\n\nSentence 2: PG & E Corp. shares jumped $ 1.63 or 8 percent to $ 21.03 on the New York Stock Exchange on Friday .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Revenue in the first quarter of the year dropped 15 percent from the same period a year earlier .\n\nSentence 2: With the scandal hanging over Stewart 's company , revenue the first quarter of the year dropped 15 percent from the same period a year earlier .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The Nasdaq had a weekly gain of 17.27 , or 1.2 percent , closing at 1,520.15 on Friday .\n\nSentence 2: The tech-laced Nasdaq Composite .IXIC rallied 30.46 points , or 2.04 percent , to 1,520.15 .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The DVD-CCA then appealed to the state Supreme Court .\n\nSentence 2: The DVD CCA appealed that decision to the U.S. Supreme Court .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: That compared with $ 35.18 million , or 24 cents per share , in the year-ago period .\n\nSentence 2: Earnings were affected by a non-recurring $ 8 million tax benefit in the year-ago period .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Shares of Genentech , a much larger company with several products on the market , rose more than 2 percent .\n\nSentence 2: Shares of Xoma fell 16 percent in early trade , while shares of Genentech , a much larger company with several products on the market , were up 2 percent .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Legislation making it harder for consumers to erase their debts in bankruptcy court won overwhelming House approval in March .\n\nSentence 2: Legislation making it harder for consumers to erase their debts in bankruptcy court won speedy , House approval in March and was endorsed by the White House .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The Nasdaq composite index increased 10.73 , or 0.7 percent , to 1,514.77 .\n\nSentence 2: The Nasdaq Composite index , full of technology stocks , was lately up around 18 points .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: But he added group performance would improve in the second half of the year and beyond .\n\nSentence 2: De Sole said in the results statement that group performance would improve in the second half of the year and beyond .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: He told The Sun newspaper that Mr. Hussein 's daughters had British schools and hospitals in mind when they decided to ask for asylum .\n\nSentence 2: \" Saddam 's daughters had British schools and hospitals in mind when they decided to ask for asylum -- especially the schools , \" he told The Sun .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Gyorgy Heizler , head of the local disaster unit , said the coach was carrying 38 passengers .\n\nSentence 2: The head of the local disaster unit , Gyorgy Heizler , said the coach driver had failed to heed red stop lights .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Rudder was most recently senior vice president for the Developer & Platform Evangelism Business .\n\nSentence 2: Senior Vice President Eric Rudder , formerly head of the Developer and Platform Evangelism unit , will lead the new entity .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: As well as the dolphin scheme , the chaos has allowed foreign companies to engage in damaging logging and fishing operations without proper monitoring or export controls .\n\nSentence 2: Internal chaos has allowed foreign companies to set up damaging commercial logging and fishing operations without proper monitoring or export controls .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Sheena Young of Child , the national infertility support network , hoped the guidelines would lead to a more \" fair and equitable \" service for infertility sufferers .\n\nSentence 2: Sheena Young , a spokesman for Child , the national infertility support network , said the proposed guidelines should lead to a more \" fair and equitable \" service for infertility sufferers .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: \" I think you 'll see a lot of job growth in the next two years , \" he said , adding the growth could replace jobs lost .\n\nSentence 2: \" I think you 'll see a lot of job growth in the next two years , \" said Mankiw .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The new Finder puts a user 's folders , hard drive , network servers , iDisk and removable media in one location , providing one-click access .\n\nSentence 2: Panther 's redesigned Finder navigation tool puts a user 's favourite folders , hard drive , network servers , iDisk and removable media in one location .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: But tropical storm warnings and watches were posted today for Haiti , western portions of the Dominican Republic , the southeastern Bahamas and the Turk and Caicos islands .\n\nSentence 2: Tropical storm warnings were in place Thursday for Jamaica and Haiti and watches for the western Dominican Republic , the southeastern Bahamas and the Turks and Caicos islands .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: A federal magistrate in Fort Lauderdale ordered him held without bail .\n\nSentence 2: Zuccarini was ordered held without bail Wednesday by a federal judge in Fort Lauderdale , Fla .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: A BMI of 25 or above is considered overweight ; 30 or above is considered obese .\n\nSentence 2: A BMI between 18.5 and 24.9 is considered normal , over 25 is considered overweight and 30 or greater is defined as obese .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Six months ago , the IMF and Argentina struck a bare-minimum $ 6.8-billion debt rollover deal that expires in August .\n\nSentence 2: But six months ago , the two sides managed to strike a $ 6.8-billion debt rollover deal , which expires in August .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Inhibited children tend to be timid with new people , objects , and situations , while uninhibited children spontaneously approach them .\n\nSentence 2: Simply put , shy invividuals tend to be more timid with new people and situations .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: I wanted to bring the most beautiful people into the most beautiful building , he said Sunday inside the Grand Central concourse .\n\nSentence 2: \" I wanted to bring the most beautiful people into the most beautiful building , \" Tunick said Sunday .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The broad Standard & Poor 's 500 < .SPX > fell 10.75 points , or 1.02 percent , to 1,039.32 .\n\nSentence 2: The S & P 500 index was up 1.26 , or 0.1 percent , to 1,039.32 after sinking 10.75 yesterday .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Duque will return to Earth Oct. 27 with the station 's current crew , U.S. astronaut Ed Lu and Russian cosmonaut Yuri Malenchenko .\n\nSentence 2: Currently living onboard the space station are American astronaut Ed Lu and Russian cosmonaut Yuri Malenchenko .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Singapore is already the United States ' 12th-largest trading partner , with two-way trade totaling more than $ 34 billion .\n\nSentence 2: Although a small city-state , Singapore is the 12th-largest trading partner of the United States , with trade volume of $ 33.4 billion last year .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The largest gains were seen in prices , new orders , inventories and exports .\n\nSentence 2: Sub-indexes measuring prices , new orders , inventories and exports increased .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Trading in Loral was halted yesterday ; the shares closed on Monday at $ 3.01 .\n\nSentence 2: The New York Stock Exchange suspended trading yesterday in Loral , which closed at $ 3.01 Friday .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Earnings per share from recurring operations will be 13 cents to 14 cents .\n\nSentence 2: That beat the company 's April earnings forecast of 8 to 9 cents a share .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: He plans to have dinner with troops at Kosovo 's U.S. military headquarters , Camp Bondsteel .\n\nSentence 2: After that , he plans to have dinner at Camp Bondsteel with U.S. troops stationed there .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Retailers J.C. Penney Co . Inc . ( JCP ) and Walgreen Co . ( WAG ) kick things off on Monday .\n\nSentence 2: Retailers J.C. Penney Co . Inc . JCP.N and Walgreen Co . WAG.N kick things off on Monday .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Prosecutors filed a motion informing Lee they intend to seek the death penalty .\n\nSentence 2: He added that prosecutors will seek the death penalty .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Last year the court upheld Cleveland 's school voucher program , ruling 5-4 that vouchers are constitutional if they provide parents a choice of religious and secular schools .\n\nSentence 2: Last year , the court ruled 5-4 in an Ohio case that government vouchers are constitutional if they provide parents with choices among a range of religious and secular schools .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: He beat testicular cancer that had spread to his lungs and brain .\n\nSentence 2: Armstrong , 31 , battled testicular cancer that spread to his brain .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Sorkin , who faces charges of conspiracy to obstruct justice and lying to a grand jury , was to have been tried separately .\n\nSentence 2: Sorkin was to have been tried separately on charges of conspiracy and lying to a grand jury .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Graves reported from Albuquerque , Villafranca from Austin and Ratcliffe from Laredo .\n\nSentence 2: Pete Slover reported from Laredo and Gromer Jeffers from Albuquerque .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The US chip market is expected to decline 2.1 percent this year , then grow 15.7 percent in 2004 .\n\nSentence 2: The Americas market will decline 2.1 percent to $ 30.6 billion in 2003 , and then grow 15.7 percent to $ 35.4 billion in 2004 .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The group will be headed by State Department official John S. Wolf , who has served in Australia , Vietnam , Greece and Pakistan .\n\nSentence 2: The group will be headed by John S. Wolf , an assistant secretary of state who has served in Australia , Vietnam , Greece and Pakistan .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The commission must work out the plan 's details , but the average residential customer paying $ 840 a year would get a savings of about $ 30 annually .\n\nSentence 2: An average residential customer paying $ 840 a year for electricity could see a savings of $ 30 annually .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The company has said it plans to restate its earnings for 2000 through 2002 .\n\nSentence 2: The company had announced in January that it would have to restate earnings for 2002 , 2001 and perhaps 2000 .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Results from No. 2 U.S. soft drink maker PepsiCo Inc . PEP.N were likely to be in the spotlight .\n\nSentence 2: Results from No. 2 U.S. soft drink maker PepsiCo Inc . ( nyse : PEP - news - people ) were likely to be in the spotlight .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: \" The result is an overall package that will provide significant economic growth for our employees over the next four years . \"\n\nSentence 2: \" The result is an overall package that will provide a significant economic growth for our employees over the next few years , \" he said .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The songs are on offer for 99 cents each , or $ 9.99 for an album .\n\nSentence 2: The company will offer songs for 99 cents and albums for $ 9.95 .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: However , the talk was downplayed by PBL which said it would focus only on smaller purchases that were immediately earnings and cash flow accretive .\n\nSentence 2: The talk , however , has been downplayed by PBL which said it would focus only on smaller purchases that were immediately earnings and cash flow-accretive .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Comcast Class A shares were up 8 cents at $ 30.50 in morning trading on the Nasdaq Stock Market .\n\nSentence 2: The stock rose 48 cents to $ 30 yesterday in Nasdaq Stock Market trading .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The Washington Post said Airlite would shut down its first shift and parts of the second shift Monday to accommodate the president \u2019 s appearance .\n\nSentence 2: The plant plans to shut down its first shift and parts of the second shift Monday to accommodate the president 's appearance , Crosby said .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: A former teammate , Carlton Dotson , has been charged with the murder .\n\nSentence 2: His body was found July 25 , and former teammate Carlton Dotson has been charged in his shooting death .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Several of the questions asked by the audience in the fast-paced forum were new to the candidates .\n\nSentence 2: Several of the audience questions were new to the candidates as well .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Meanwhile , the global death toll approached 770 with more than 8,300 people sickened since the severe acute respiratory syndrome virus first appeared in southern China in November .\n\nSentence 2: The global death toll from SARS was at least 767 , with more than 8,300 people sickened since the virus first appeared in southern China in November .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The battles marked day four of a U.S. sweep to hunt down supporters of Saddam Hussein 's fallen regime .\n\nSentence 2: Twenty-seven Iraqis were killed , pushing the number of opposition deaths to about 100 in a U.S. operation to hunt down supporters of Saddam Hussein 's fallen regime .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The women then had follow-up examinations after five , 12 and 24 years .\n\nSentence 2: The women had follow-up examinations in 1974-75 , 1980-81 and 1992-93 , but were not asked about stress again .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The Embraer jets are scheduled to be delivered by September 2006 .\n\nSentence 2: The Bombardier and Embraer aircraft will be delivered to U.S. Airways by September 2006 .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Contrary to what PeopleSoft management would have you believe , Oracle intends to fully support PeopleSoft customers and products for many years to come . \"\n\nSentence 2: Ellison said that contrary to the contentions of PeopleSoft management , Oracle intends to \" fully support PeopleSoft customers and products \" for many years to come .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Application Intelligence will be included as part of the company 's SmartDefense application , which is included with Firewall-1 .\n\nSentence 2: The new application intelligence features will be available June 3 and are included with the SmartDefense product , which comes with FireWall-1 .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: American Masters : Arthur Miller , Elia Kazan and the Blacklist : None Without Sin ( Wed .\n\nSentence 2: Note the subheading of this terrible parable in the \" American Masters \" series , \" Arthur Miller , Elia Kazan and the Blacklist : None Without Sin . \"\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The downtime , to take place in May and June , is expected to cut production by 60 million to 70 million board feet .\n\nSentence 2: The downtime is expected to take 60 million to 70 million board feet out of the companys system .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: On July 3 , Troy is expected to be sentenced to life in prison without parole .\n\nSentence 2: Troy faces life in prison without parole at his July 30 sentencing .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The University of Michigan released a new undergraduate admission process Thursday , dropping a point system the U.S. Supreme Court found unconstitutional in June .\n\nSentence 2: The University of Michigan released today a new admissions policy after the U.S. Supreme Court struck down in June the way it previously admitted undergraduates .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The processors were announced in San Jose at the Intel Developer Forum .\n\nSentence 2: The new processor was unveiled at the Intel Developer Forum 2003 in San Jose , Calif .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The Justice Department filed suit Thursday against the state of Mississippi for failing to end what federal officials call \" disturbing \" abuse of juveniles and \" unconscionable \" conditions at two state-run facilities .\n\nSentence 2: The Justice Department filed a civil rights lawsuit Thursday against the state of Mississippi , alleging abuse of juvenile offenders at two state-run facilities .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: It said the damage to the wing provided a pathway for hot gasses to penetrate the ship 's thermal armor during Columbia 's ill-fated reentry .\n\nSentence 2: The document says the damage to the wing provided a pathway for hot gases to penetrate Columbia 's thermal armour during its fatal re-entry .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Also demonstrating box-office strength _ and getting seven Tony nominations _ was a potent revival of Eugene O 'Neill 's family drama , \" Long Day 's Journey Into Night . \"\n\nSentence 2: Also demonstrating box-office strength -- and getting seven Tony nominations -- was a potent revival of Eugene ONeills family drama , Long Days Journey Into Night . \"\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: But Secretary of State Colin Powell brushed off this possibility Wednesday .\n\nSentence 2: Secretary of State Colin Powell last week ruled out a non-aggression treaty .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Thomas and Tauzin say , as do many doctors , that the Bush administration has the power to correct some of those flaws .\n\nSentence 2: Like many doctors , Mr. Thomas and Mr. Tauzin say the Bush administration has the power to correct some of those flaws .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Based on experience elsewhere , it could take up to two years before regular elections are held , he added .\n\nSentence 2: U.S. military officials have said it could take up to two years before regular elections are held , based on experiences elsewhere in the world .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The first biotechnology treatment for asthma , the constriction of the airways that affects millions around the world , received approval from the US Food and Drug Administration yesterday .\n\nSentence 2: The first biotechnology treatment for asthma , the constriction of the airways that affects millions of Americans , received approval from the U.S. Food and Drug Administration on Friday .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: FBI agents arrested a former partner of Big Four accounting firm Ernst & Young ERNY.UL on criminal charges of obstructing federal investigations , U.S. officials said on Thursday .\n\nSentence 2: A former partner of accountancy firm Ernst & Young was yesterday arrested by FBI agents in the US on charges of obstructing federal investigations .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Kelly will begin meetings with Russian Deputy Foreign Minister Alexander Losyukov in Washington on Monday .\n\nSentence 2: Russian Deputy Foreign Minister Alexander Losyukov said in Moscow Tuesday a firm date would be fixed by this months end .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The latest shooting linked to the spree was a November 11 shooting at Hamilton Central Elementary School in Obetz , about 3km from the freeway .\n\nSentence 2: Another shooting linked to the spree occurred Nov. 11 at Hamilton Central Elementary in Obetz , about two miles from the freeway .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The Dow Jones Industrial Average ended down 128 points , or 1.4 % , at 9073 , while the Nasdaq fell 34 points , or 2.1 % , to 1610 .\n\nSentence 2: In early trading , the Dow Jones industrial average was up 3.90 , or 0.04 percent , at 9,113.75 , having gained 36.90 on Tuesday .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: PDC will also almost certainly fan the flames of speculation about Longhorn 's release .\n\nSentence 2: PDC will also almost certainly reignite speculation about release dates of Microsoft 's new products .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Sales - a figure watched closely as a barometer of its health - rose 5 percent instead of falling as many industry experts had predicted .\n\nSentence 2: It also disclosed that sales -- a figure closely watched by analysts as a barometer of its health -- were significantly higher than industry experts expected .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: NEC is pitching its wireless gear and management software to a variety of industries , including health care and hospitality .\n\nSentence 2: NEC 's pitching its wireless gear and management software to a variety of industries , including healthcare and hospitality , a company spokesman said .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Elena Slough , considered to be the nation 's oldest person and the third oldest person in the world , died early Sunday morning .\n\nSentence 2: ELENA Slough , considered to be the oldest person in the US and the third oldest person in the world , has died .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: \" We are declaring war on sexual harassment and sexual assault .\n\nSentence 2: \" We have declared war on sexual assault and sexual harassment , \" Rosa said .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The technology-laced Nasdaq Composite Index < .IXIC > added 1.92 points , or 0.12 percent , at 1,647.94 .\n\nSentence 2: The technology-laced Nasdaq Composite Index .IXIC dipped 0.08 of a point to 1,646 .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The dollar was at 117.85 yen against the Japanese currency , up 0.1 percent .\n\nSentence 2: Against the Swiss franc the dollar was at 1.3289 francs , up 0.5 percent on the day .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: El Watan , an Algerian newspaper , reported that the kidnappers fiercely resisted the army assault this morning , firing Kalashnikov rifles .\n\nSentence 2: El Watan , an Algerian newspaper , reported that the kidnappers put up fierce resistance during the army assault , firing Kalashnikov rifles .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: But Mitsubishi Tokyo Financial ( JP : 8306 : news , chart , profile ) declined 3,000 yen , or 0.65 percent , to 456,000 yen .\n\nSentence 2: Sumitomo Mitsui Financial ( JP : 8316 : news , chart , profile ) was down 2.5 percent at 198,000 yen .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: \" We 're just dealing with bragging rights here , who wins and who loses . \"\n\nSentence 2: \" Leaving aside attorney fees , we 're dealing with bragging rights of who wins and who loses , \" said Gammerman .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Shares of Hartford rose $ 2.88 to $ 46.50 in New York Stock Exchange composite trading .\n\nSentence 2: Shares of Hartford were up $ 2.28 , or 5.2 percent , to $ 45.90 in midday trading .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: This Palm OS smart phone is the last product the company will release before it becomes a part of palmOne .\n\nSentence 2: This was almost certainly its last full quarter before the company becomes a part of Palm .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: And they think the protein probably is involved in the spread of other forms of cancer .\n\nSentence 2: They researchers say the research could be relevant to other forms of cancer .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Tokyo Electric Power Co . , Asia 's largest power company , won approval to restart the first of 17 nuclear reactors it shut down after it admitted falsifying inspection reports .\n\nSentence 2: Tokyo Electric Power Co . , Asia 's largest power company , restarted the first of 17 nuclear reactors it shut down after admitting it falsified inspection reports .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Tuition at four-year private colleges averaged $ 19,710 this year , up 6 percent from 2002 .\n\nSentence 2: For the current academic year , tuition at public colleges averaged $ 4,694 , up almost $ 600 from the year before .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Security lights have also been installed and police have swept the grounds for booby traps .\n\nSentence 2: Security lights have also been installed on a barn near the front gate .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: He said that with the U.S.-backed peace plan , or road map , \u201c in a coma , \u201d the attack could easily widen conflict through the region .\n\nSentence 2: Mr Jouejati said that with the US-backed road map \" in a coma \" the attack could easily widen through the region .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: A successful attack could be launched within any type of document that supports VBA , including Microsoft Word , Excel or PowerPoint .\n\nSentence 2: But this could happen with any document format that supports VBA , including Word , Excel or PowerPoint .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Officials at Brandeis said this was an \" extremely heartrending \" time for the campus .\n\nSentence 2: \" This is an extremely heartrending time for the entire Brandeis University community .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: \" If that ain 't a Democrat , I must be at the wrong meeting , \" he said .\n\nSentence 2: And if that ain 't a Democrat , then I must be in the wrong meeting , \" he said to thunderous applause from his supporters .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Fewer than a dozen FBI agents were dispatched to secure and analyze evidence .\n\nSentence 2: Fewer than a dozen FBI agents will be sent to Iraq to secure and analyze evidence of the bombing .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Those who only had surgery lived an average of 46 months .\n\nSentence 2: For those who got surgery alone , median survival was 41 months .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Tonight a spokesman for Russia 's foreign ministry said the ministry may issue a statement on Thursday clarifying Russia 's position on cooperation with Iran 's nuclear-energy efforts .\n\nSentence 2: Tonight a spokesman for the Russian Foreign Ministry said it might issue a statement on Thursday clarifying Russia 's position on aiding Iran 's nuclear-energy efforts .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: A day earlier , a committee appointed by reformist President Mohammad Khatami called for an independent judicial inquiry into Kazemi 's death .\n\nSentence 2: A day earlier , a committee appointed by President Mohammad Khatami had called for an independent inquiry into the 54-year-old photojournalist 's death .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The suite comes complete with a word processor , spreadsheet , presentation software and other components , while continuing its tradition of utilizing an XML-based file format .\n\nSentence 2: The suite includes a word processor , spreadsheet , presentation application ( analogous to PowerPoint ) , and other components -- all built around the XML file format .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Downstream at Mount Vernon , the Skagit River was expected to crest at 36 feet -- 8 feet above flood stage -- tonight , Burke said .\n\nSentence 2: The Skagit was expected to crest during the night at 38 feet at Mount Vernon , 10 feet above flood stage , the National Weather Service said .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The blue-chip Dow Jones industrial average eased 44 points , or 0.47 percent , to 9,543 , after scoring five consecutive up sessions .\n\nSentence 2: The Dow Jones industrial average .DJI rose 18.25 points , or 0.19 percent , to 9,586.71 .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The Nasdaq composite index inched up 1.28 , or 0.1 percent , to 1,766.60 , following a weekly win of 3.7 percent .\n\nSentence 2: The technology-laced Nasdaq Composite Index .IXIC was off 24.44 points , or 1.39 percent , at 1,739.87 .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Physicians who violate the ban would be subject to fines and up to two years in prison .\n\nSentence 2: Physicians who perform the procedure would face up to two years in prison , under the bill .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Standard & Poor 's 500 stock index futures declined 4.40 points to 983.50 , while Nasdaq futures fell 6.5 points to 1,206.50 .\n\nSentence 2: The Standard & Poor 's 500 Index was up 1.75 points , or 0.18 percent , to 977.68 .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: For example , Anhalt said , children typically treat a 20-ounce soda bottle as one serving , although it actually contains 2 \u00bd 8-ounce servings .\n\nSentence 2: Anhalt said children typically treat a 20-ounce soda bottle as one serving , while it actually contains 2.5 .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The yield on the 3 percent note maturing in 2008 fell 22 basis points to 2.61 percent .\n\nSentence 2: The yield fell 2 basis points to 1.41 percent , after reaching 1.4 percent on May 8 , the lowest since March 12 .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Kline 's opinion dealt specifically with abortion providers , but it also would apply to doctors providing other services , such as prenatal care , to a pregnant child under 16 .\n\nSentence 2: Kline 's opinion dealt specifically with abortion providers , but later his office said it also would apply to doctors providing services such as prenatal care to pregnant girls under 16 .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The United Nations ' International Atomic Energy Agency asked for information on the allegation after the dossier was published , but Britain did not provide any , U.N. officials said .\n\nSentence 2: The International Atomic Energy Agency asked for information on the uranium assertions after London 's dossier was published , but Britain did not provide any , U.N. officials said .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Sixteen days later , as superheated air from the shuttle 's reentry rushed into the damaged wing , \" there was no possibility for crew survival , \" the board said .\n\nSentence 2: Sixteen days later , as superheated air from the shuttle \u2019 s re-entry rushed into the damaged wing , \u2018 \u2018 there was no possibility for crew survival , \u2019 \u2019 the board said .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: \" The free world and those who love freedom and peace must deal harshly with Hamas and the killers , \" he told reporters as he emerged from a church service .\n\nSentence 2: \" It is clear that the free world , those who love freedom and peace , must deal harshly with Hamas and the killers , \" he said .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The pressure will intensify today , with national coverage of the final round planned by ESPN and words that are even more difficult .\n\nSentence 2: The pressure may well rise today , with national coverage of the final round planned by ESPN , the cable sports network .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Powell fired back : \" He 's accusing the president of a ludicrous act , \" he said .\n\nSentence 2: If so , Powell said , he 's calling the president ludicrous , too .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The memo on protecting sales of Windows and other desktop software mentioned Linux , a still small but emerging software competitor that is not owned by any specific company .\n\nSentence 2: The memo specifically mentioned Linux , a still small but emerging software competitor that is not owned by any specific company .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Also Tuesday , the United States also released more Iraqi prisoners of war , and officials announced that all would soon be let go .\n\nSentence 2: Meanwhile in southern Iraq , the United States released more Iraqi prisoners of war , and officials announced that all would be let go soon .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The resulting lists led toa CBS special , AFI 's 100 Years . . . 100 Heroes & Villains , hosted by Arnold Schwarzenegger .\n\nSentence 2: A prime-time special on the list , \" AFI 's 100 Years . . . 100 Heroes & Villains \" aired Tuesday on CBS .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Police warned residents on Friday not to travel alone and to avoid convenience stores and service stations stores at night .\n\nSentence 2: Police advised residents Friday not to travel alone to convenience stores and to be watchful .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: \" We had nothing to do with @ Stake 's internal personnel decision , \" Microsoft spokesman Sean Sundwell said .\n\nSentence 2: \" Microsoft had absolutely nothing to do with AtStake 's internal personnel decision , \" Sundwall said .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Prosecutors said there is no question Waagner was behind the letters , which were sent at the same time of the anthrax attacks .\n\nSentence 2: Prosecutors said there is no question Waagner was behind the letters , which were sent at the same time that real anthrax attacks were killing people in 2001 .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: His plan would cost more than $ 200 billion annually , which Gephardt would pay for by repealing Bush 's tax cuts .\n\nSentence 2: His plan would cost over $ 200 billion annually and be paid for by repealing Bush 's tax cuts .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: There had been fears that the 35 year-old wouldn 't be able to conceive after suffering two ectopic pregnancies and cancer of the uterus .\n\nSentence 2: There were fears that Heather would never have children after suffering two ectopic pregnancies and cancer of the uterus .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: On Friday , the Food and Drug Administration approved the use of silicone breast implants with conditions .\n\nSentence 2: The drug was approved for use Friday by the Food and Drug Administration .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Prosecutors said Paracha , if convicted , could face at least 17 years in prison .\n\nSentence 2: Paracha faces at least 17 years in prison if convicted .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: More than half of the songs were purchased as albums , Apple said .\n\nSentence 2: Apple noted that half the songs were purchased as part of albums .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The ECB has cut interest rates six times over that period , from 4.75 percent in October 2000 to 2.5 percent .\n\nSentence 2: The ECB has cut rates from 4.75 percent in October 2000 to 2.5 percent in that period .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: \" This deal makes sense for both companies , \" Halla said in a prepared statement .\n\nSentence 2: Brian Halla , CEO of NatSemi , claimed the deal made sense for both companies .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Smugglers in a van chased down a pickup and SUV carrying other smugglers and illegal immigrants , said Pinal County Sheriff Roger Vanderpool .\n\nSentence 2: People in a van opened fire on a pickup and SUV believed to be transporting illegal immigrants , said Pinal County Sheriff Roger Vanderpool .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: Tyco later said the loan had not been forgiven , and Swartz repaid it in full , with interest , according to his lawyer , Charles Stillman .\n\nSentence 2: Tyco has said the loan was not forgiven , but that Swartz fully repaid it with interest , according to his lawyer , Charles Stillman .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: While Bolton apparently fell and was immobilized , Selenski used the mattress to scale a 10-foot , razor-wire fence , Fischi said .\n\nSentence 2: After the other inmate fell , Selenski used the mattress to scale a 10-foot , razor-wire fence , Fischi said .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "equivalent"
+    },
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\nYou will be given two sentences. Your task is to determine whether they are paraphrases of each other. Respond with ONLY 'equivalent' if they are paraphrases or 'not_equivalent' if they are not.\n\nSentence 1: The loonie , meanwhile , continued to slip in early trading Friday .\n\nSentence 2: The loonie , meanwhile , was on the rise again early Thursday .\n\nAre these sentences paraphrases of each other?",
+        "input": "",
+        "chosen": "not_equivalent"
+    }
+]
