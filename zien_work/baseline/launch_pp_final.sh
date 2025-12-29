@@ -6,7 +6,7 @@ echo "Cleaning up old processes..."
 pkill -9 -f mlora_pp_train.py
 sleep 2 # 等操作系统回收端口
 
-# 必须设置，否则多卡之间无法通信
+# 设置多卡之间通信
 export MASTER_ADDR=127.0.0.1
 export MASTER_PORT=23456  # 确保端口没被占用
 
