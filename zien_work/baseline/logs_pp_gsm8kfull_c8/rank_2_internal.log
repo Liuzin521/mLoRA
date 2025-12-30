@@ -1,0 +1,513 @@
+[2025-12-25 19:33:30,793] m-LoRA: NVIDIA CUDA initialized successfully.
+[2025-12-25 19:33:30,793] m-LoRA: Total 8 GPU(s) detected.
+[2025-12-25 19:33:31,021] m-LoRA: Pipeline parallelism, rank is 2 and balance is [8, 9, 9, 9].
+[2025-12-25 19:33:31,023] m-LoRA: Loading model with precision - bf16
+[2025-12-25 19:33:33,310] m-LoRA: Some parameters are on the meta device because they were offloaded to the disk.
+[2025-12-25 19:33:33,310] m-LoRA: loading llama compatible model - llama
+[2025-12-25 19:33:33,454] m-LoRA: Adapter lora_gsm8k_0 without lr_scheduler.
+[2025-12-25 19:33:33,454] m-LoRA: Adapter lora_gsm8k_1 without lr_scheduler.
+[2025-12-25 19:33:33,454] m-LoRA: Adapter lora_gsm8k_2 without lr_scheduler.
+[2025-12-25 19:33:33,454] m-LoRA: Adapter lora_gsm8k_3 without lr_scheduler.
+[2025-12-25 19:33:33,454] m-LoRA: Adapter lora_gsm8k_4 without lr_scheduler.
+[2025-12-25 19:33:33,454] m-LoRA: Adapter lora_gsm8k_5 without lr_scheduler.
+[2025-12-25 19:33:33,454] m-LoRA: Adapter lora_gsm8k_6 without lr_scheduler.
+[2025-12-25 19:33:33,454] m-LoRA: Adapter lora_gsm8k_7 without lr_scheduler.
+[2025-12-25 19:33:33,454] m-LoRA: Adapter lora_gsm8k_8 without lr_scheduler.
+[2025-12-25 19:33:33,454] m-LoRA: Adapter lora_gsm8k_9 without lr_scheduler.
+[2025-12-25 19:33:33,454] m-LoRA: Adapter lora_gsm8k_10 without lr_scheduler.
+[2025-12-25 19:33:33,454] m-LoRA: Adapter lora_gsm8k_11 without lr_scheduler.
+[2025-12-25 19:33:33,454] m-LoRA: Adapter lora_gsm8k_12 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_13 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_14 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_15 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_16 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_17 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_18 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_19 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_20 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_21 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_22 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_23 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_24 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_25 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_26 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_27 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_28 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_29 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_30 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_31 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_32 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_33 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_34 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_35 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_36 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_37 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_38 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_39 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_40 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_41 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_42 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_43 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_44 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_45 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_46 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_47 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_48 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_49 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_50 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_51 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_52 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_53 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_54 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_55 without lr_scheduler.
+[2025-12-25 19:33:33,455] m-LoRA: Adapter lora_gsm8k_56 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: Adapter lora_gsm8k_57 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: Adapter lora_gsm8k_58 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: Adapter lora_gsm8k_59 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: Adapter lora_gsm8k_60 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: Adapter lora_gsm8k_61 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: Adapter lora_gsm8k_62 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: Adapter lora_gsm8k_63 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: Adapter lora_gsm8k_64 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: Adapter lora_gsm8k_65 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: Adapter lora_gsm8k_66 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: Adapter lora_gsm8k_67 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: Adapter lora_gsm8k_68 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: Adapter lora_gsm8k_69 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: Adapter lora_gsm8k_70 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: Adapter lora_gsm8k_71 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: Adapter lora_gsm8k_72 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: Adapter lora_gsm8k_73 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: Adapter lora_gsm8k_74 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: Adapter lora_gsm8k_75 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: Adapter lora_gsm8k_76 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: Adapter lora_gsm8k_77 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: Adapter lora_gsm8k_78 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: Adapter lora_gsm8k_79 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: Adapter lora_gsm8k_80 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: Adapter lora_gsm8k_81 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: Adapter lora_gsm8k_82 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: Adapter lora_gsm8k_83 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: Adapter lora_gsm8k_84 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: Adapter lora_gsm8k_85 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: Adapter lora_gsm8k_86 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: Adapter lora_gsm8k_87 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: Adapter lora_gsm8k_88 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: Adapter lora_gsm8k_89 without lr_scheduler.
+[2025-12-25 19:33:33,456] m-LoRA: RANK-2 in device cuda:2 to load module layers from 17 to 26.
+[2025-12-25 19:33:33,467] m-LoRA: DeviceSwapQueue - ACTIVATIONS_send start.
+[2025-12-25 19:33:33,467] m-LoRA: DeviceSwapQueue - GRADIENTS_send start.
+[2025-12-25 19:33:33,468] m-LoRA: DeviceSwapQueue - ACTIVATIONS_recv start.
+[2025-12-25 19:33:33,468] m-LoRA: DeviceSwapQueue - GRADIENTS_recv start.
+[2025-12-25 19:33:35,621] m-LoRA: Init rpc with rank 2 world_size: 4
+[2025-12-25 19:33:35,638] m-LoRA: Init train : task_gsm8k_0 task with adapters: ['lora_gsm8k_0']
+[2025-12-25 19:33:38,523] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:36:09,650] m-LoRA: NVIDIA CUDA initialized successfully.
+[2025-12-25 19:36:09,651] m-LoRA: Total 8 GPU(s) detected.
+[2025-12-25 19:36:09,863] m-LoRA: Pipeline parallelism, rank is 2 and balance is [8, 9, 9, 9].
+[2025-12-25 19:36:09,864] m-LoRA: Loading model with precision - bf16
+[2025-12-25 19:36:11,297] m-LoRA: Some parameters are on the meta device because they were offloaded to the disk.
+[2025-12-25 19:36:11,297] m-LoRA: loading llama compatible model - llama
+[2025-12-25 19:36:11,441] m-LoRA: Adapter lora_gsm8k_0 without lr_scheduler.
+[2025-12-25 19:36:11,441] m-LoRA: Adapter lora_gsm8k_1 without lr_scheduler.
+[2025-12-25 19:36:11,441] m-LoRA: Adapter lora_gsm8k_2 without lr_scheduler.
+[2025-12-25 19:36:11,441] m-LoRA: Adapter lora_gsm8k_3 without lr_scheduler.
+[2025-12-25 19:36:11,441] m-LoRA: Adapter lora_gsm8k_4 without lr_scheduler.
+[2025-12-25 19:36:11,441] m-LoRA: Adapter lora_gsm8k_5 without lr_scheduler.
+[2025-12-25 19:36:11,441] m-LoRA: Adapter lora_gsm8k_6 without lr_scheduler.
+[2025-12-25 19:36:11,441] m-LoRA: Adapter lora_gsm8k_7 without lr_scheduler.
+[2025-12-25 19:36:11,441] m-LoRA: Adapter lora_gsm8k_8 without lr_scheduler.
+[2025-12-25 19:36:11,441] m-LoRA: Adapter lora_gsm8k_9 without lr_scheduler.
+[2025-12-25 19:36:11,441] m-LoRA: Adapter lora_gsm8k_10 without lr_scheduler.
+[2025-12-25 19:36:11,441] m-LoRA: Adapter lora_gsm8k_11 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_12 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_13 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_14 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_15 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_16 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_17 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_18 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_19 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_20 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_21 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_22 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_23 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_24 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_25 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_26 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_27 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_28 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_29 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_30 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_31 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_32 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_33 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_34 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_35 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_36 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_37 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_38 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_39 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_40 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_41 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_42 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_43 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_44 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_45 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_46 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_47 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_48 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_49 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_50 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_51 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_52 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_53 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_54 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_55 without lr_scheduler.
+[2025-12-25 19:36:11,442] m-LoRA: Adapter lora_gsm8k_56 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: Adapter lora_gsm8k_57 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: Adapter lora_gsm8k_58 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: Adapter lora_gsm8k_59 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: Adapter lora_gsm8k_60 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: Adapter lora_gsm8k_61 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: Adapter lora_gsm8k_62 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: Adapter lora_gsm8k_63 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: Adapter lora_gsm8k_64 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: Adapter lora_gsm8k_65 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: Adapter lora_gsm8k_66 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: Adapter lora_gsm8k_67 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: Adapter lora_gsm8k_68 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: Adapter lora_gsm8k_69 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: Adapter lora_gsm8k_70 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: Adapter lora_gsm8k_71 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: Adapter lora_gsm8k_72 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: Adapter lora_gsm8k_73 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: Adapter lora_gsm8k_74 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: Adapter lora_gsm8k_75 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: Adapter lora_gsm8k_76 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: Adapter lora_gsm8k_77 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: Adapter lora_gsm8k_78 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: Adapter lora_gsm8k_79 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: Adapter lora_gsm8k_80 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: Adapter lora_gsm8k_81 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: Adapter lora_gsm8k_82 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: Adapter lora_gsm8k_83 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: Adapter lora_gsm8k_84 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: Adapter lora_gsm8k_85 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: Adapter lora_gsm8k_86 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: Adapter lora_gsm8k_87 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: Adapter lora_gsm8k_88 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: Adapter lora_gsm8k_89 without lr_scheduler.
+[2025-12-25 19:36:11,443] m-LoRA: RANK-2 in device cuda:2 to load module layers from 17 to 26.
+[2025-12-25 19:36:11,454] m-LoRA: DeviceSwapQueue - ACTIVATIONS_send start.
+[2025-12-25 19:36:11,455] m-LoRA: DeviceSwapQueue - GRADIENTS_send start.
+[2025-12-25 19:36:11,455] m-LoRA: DeviceSwapQueue - ACTIVATIONS_recv start.
+[2025-12-25 19:36:11,456] m-LoRA: DeviceSwapQueue - GRADIENTS_recv start.
+[2025-12-25 19:36:13,833] m-LoRA: Init rpc with rank 2 world_size: 4
+[2025-12-25 19:36:13,856] m-LoRA: Init train : task_gsm8k_0 task with adapters: ['lora_gsm8k_0']
+[2025-12-25 19:36:16,570] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:36:16,584] m-LoRA: Init train : task_gsm8k_1 task with adapters: ['lora_gsm8k_1']
+[2025-12-25 19:36:18,308] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:36:18,308] m-LoRA: Init train : task_gsm8k_2 task with adapters: ['lora_gsm8k_2']
+[2025-12-25 19:36:20,347] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:36:20,347] m-LoRA: Init train : task_gsm8k_3 task with adapters: ['lora_gsm8k_3']
+[2025-12-25 19:36:22,422] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:36:22,422] m-LoRA: Init train : task_gsm8k_4 task with adapters: ['lora_gsm8k_4']
+[2025-12-25 19:36:22,653] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:36:22,903] m-LoRA: Init train : task_gsm8k_5 task with adapters: ['lora_gsm8k_5']
+[2025-12-25 19:36:25,260] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:36:25,261] m-LoRA: Init train : task_gsm8k_6 task with adapters: ['lora_gsm8k_6']
+[2025-12-25 19:36:25,800] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:36:25,935] m-LoRA: Init train : task_gsm8k_7 task with adapters: ['lora_gsm8k_7']
+[2025-12-25 19:36:28,141] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:36:28,141] m-LoRA: Init train : task_gsm8k_8 task with adapters: ['lora_gsm8k_8']
+[2025-12-25 19:36:28,235] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:36:28,685] m-LoRA: Init train : task_gsm8k_9 task with adapters: ['lora_gsm8k_9']
+[2025-12-25 19:36:30,675] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:36:30,707] m-LoRA: Init train : task_gsm8k_10 task with adapters: ['lora_gsm8k_10']
+[2025-12-25 19:36:32,721] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:36:32,721] m-LoRA: Init train : task_gsm8k_11 task with adapters: ['lora_gsm8k_11']
+[2025-12-25 19:36:32,915] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:36:33,163] m-LoRA: Init train : task_gsm8k_12 task with adapters: ['lora_gsm8k_12']
+[2025-12-25 19:36:35,248] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:36:35,277] m-LoRA: Init train : task_gsm8k_13 task with adapters: ['lora_gsm8k_13']
+[2025-12-25 19:36:36,746] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:36:36,746] m-LoRA: Init train : task_gsm8k_14 task with adapters: ['lora_gsm8k_14']
+[2025-12-25 19:36:38,969] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:36:39,019] m-LoRA: Init train : task_gsm8k_15 task with adapters: ['lora_gsm8k_15']
+[2025-12-25 19:36:40,685] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:36:40,685] m-LoRA: Init train : task_gsm8k_16 task with adapters: ['lora_gsm8k_16']
+[2025-12-25 19:36:40,896] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:36:41,182] m-LoRA: Init train : task_gsm8k_17 task with adapters: ['lora_gsm8k_17']
+[2025-12-25 19:36:42,499] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:36:42,572] m-LoRA: Init train : task_gsm8k_18 task with adapters: ['lora_gsm8k_18']
+[2025-12-25 19:36:44,755] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:36:44,761] m-LoRA: Init train : task_gsm8k_19 task with adapters: ['lora_gsm8k_19']
+[2025-12-25 19:36:47,054] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:36:47,054] m-LoRA: Init train : task_gsm8k_20 task with adapters: ['lora_gsm8k_20']
+[2025-12-25 19:36:47,184] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:36:47,428] m-LoRA: Init train : task_gsm8k_21 task with adapters: ['lora_gsm8k_21']
+[2025-12-25 19:36:49,645] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:36:49,758] m-LoRA: Init train : task_gsm8k_22 task with adapters: ['lora_gsm8k_22']
+[2025-12-25 19:36:52,041] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:36:52,125] m-LoRA: Init train : task_gsm8k_23 task with adapters: ['lora_gsm8k_23']
+[2025-12-25 19:36:54,008] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:36:54,208] m-LoRA: Init train : task_gsm8k_24 task with adapters: ['lora_gsm8k_24']
+[2025-12-25 19:36:56,459] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:36:56,540] m-LoRA: Init train : task_gsm8k_25 task with adapters: ['lora_gsm8k_25']
+[2025-12-25 19:36:58,256] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:36:58,452] m-LoRA: Init train : task_gsm8k_26 task with adapters: ['lora_gsm8k_26']
+[2025-12-25 19:37:00,317] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:37:00,474] m-LoRA: Init train : task_gsm8k_27 task with adapters: ['lora_gsm8k_27']
+[2025-12-25 19:37:02,661] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:37:02,771] m-LoRA: Init train : task_gsm8k_28 task with adapters: ['lora_gsm8k_28']
+[2025-12-25 19:37:04,866] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:37:04,939] m-LoRA: Init train : task_gsm8k_29 task with adapters: ['lora_gsm8k_29']
+[2025-12-25 19:37:07,200] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:37:07,251] m-LoRA: Init train : task_gsm8k_30 task with adapters: ['lora_gsm8k_30']
+[2025-12-25 19:37:08,909] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:37:09,181] m-LoRA: Init train : task_gsm8k_31 task with adapters: ['lora_gsm8k_31']
+[2025-12-25 19:37:11,388] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:37:11,578] m-LoRA: Init train : task_gsm8k_32 task with adapters: ['lora_gsm8k_32']
+[2025-12-25 19:37:13,842] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:37:14,148] m-LoRA: Init train : task_gsm8k_33 task with adapters: ['lora_gsm8k_33']
+[2025-12-25 19:37:16,394] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:37:16,600] m-LoRA: Init train : task_gsm8k_34 task with adapters: ['lora_gsm8k_34']
+[2025-12-25 19:37:18,422] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:37:18,688] m-LoRA: Init train : task_gsm8k_35 task with adapters: ['lora_gsm8k_35']
+[2025-12-25 19:37:21,014] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:37:21,205] m-LoRA: Init train : task_gsm8k_36 task with adapters: ['lora_gsm8k_36']
+[2025-12-25 19:37:23,521] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:37:23,672] m-LoRA: Init train : task_gsm8k_37 task with adapters: ['lora_gsm8k_37']
+[2025-12-25 19:37:25,608] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:37:26,056] m-LoRA: Init train : task_gsm8k_38 task with adapters: ['lora_gsm8k_38']
+[2025-12-25 19:37:27,891] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:37:28,103] m-LoRA: Init train : task_gsm8k_39 task with adapters: ['lora_gsm8k_39']
+[2025-12-25 19:37:29,950] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:37:30,237] m-LoRA: Init train : task_gsm8k_40 task with adapters: ['lora_gsm8k_40']
+[2025-12-25 19:37:32,558] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:37:32,866] m-LoRA: Init train : task_gsm8k_41 task with adapters: ['lora_gsm8k_41']
+[2025-12-25 19:37:35,188] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:37:35,317] m-LoRA: Init train : task_gsm8k_42 task with adapters: ['lora_gsm8k_42']
+[2025-12-25 19:37:37,609] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:37:37,662] m-LoRA: Init train : task_gsm8k_43 task with adapters: ['lora_gsm8k_43']
+[2025-12-25 19:37:39,990] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:37:40,147] m-LoRA: Init train : task_gsm8k_44 task with adapters: ['lora_gsm8k_44']
+[2025-12-25 19:37:42,398] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:37:42,606] m-LoRA: Init train : task_gsm8k_45 task with adapters: ['lora_gsm8k_45']
+[2025-12-25 19:37:44,852] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:37:45,020] m-LoRA: Init train : task_gsm8k_46 task with adapters: ['lora_gsm8k_46']
+[2025-12-25 19:37:46,658] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:37:46,853] m-LoRA: Init train : task_gsm8k_47 task with adapters: ['lora_gsm8k_47']
+[2025-12-25 19:37:49,146] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:37:49,483] m-LoRA: Init train : task_gsm8k_48 task with adapters: ['lora_gsm8k_48']
+[2025-12-25 19:37:50,914] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:37:51,056] m-LoRA: Init train : task_gsm8k_49 task with adapters: ['lora_gsm8k_49']
+[2025-12-25 19:37:53,226] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:37:53,437] m-LoRA: Init train : task_gsm8k_50 task with adapters: ['lora_gsm8k_50']
+[2025-12-25 19:37:55,824] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:37:55,976] m-LoRA: Init train : task_gsm8k_51 task with adapters: ['lora_gsm8k_51']
+[2025-12-25 19:37:58,431] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:37:58,441] m-LoRA: Init train : task_gsm8k_52 task with adapters: ['lora_gsm8k_52']
+[2025-12-25 19:38:00,709] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:38:00,914] m-LoRA: Init train : task_gsm8k_53 task with adapters: ['lora_gsm8k_53']
+[2025-12-25 19:38:03,170] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:38:03,401] m-LoRA: Init train : task_gsm8k_54 task with adapters: ['lora_gsm8k_54']
+[2025-12-25 19:38:05,660] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:38:05,763] m-LoRA: Init train : task_gsm8k_55 task with adapters: ['lora_gsm8k_55']
+[2025-12-25 19:38:07,922] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:38:08,117] m-LoRA: Init train : task_gsm8k_56 task with adapters: ['lora_gsm8k_56']
+[2025-12-25 19:38:10,270] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:38:10,408] m-LoRA: Init train : task_gsm8k_57 task with adapters: ['lora_gsm8k_57']
+[2025-12-25 19:38:12,807] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:38:12,937] m-LoRA: Init train : task_gsm8k_58 task with adapters: ['lora_gsm8k_58']
+[2025-12-25 19:38:14,813] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:38:15,019] m-LoRA: Init train : task_gsm8k_59 task with adapters: ['lora_gsm8k_59']
+[2025-12-25 19:38:17,091] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:38:17,138] m-LoRA: Init train : task_gsm8k_60 task with adapters: ['lora_gsm8k_60']
+[2025-12-25 19:38:19,318] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:38:19,322] m-LoRA: Init train : task_gsm8k_61 task with adapters: ['lora_gsm8k_61']
+[2025-12-25 19:38:21,567] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:38:21,568] m-LoRA: Init train : task_gsm8k_62 task with adapters: ['lora_gsm8k_62']
+[2025-12-25 19:38:21,909] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:38:22,178] m-LoRA: Init train : task_gsm8k_63 task with adapters: ['lora_gsm8k_63']
+[2025-12-25 19:38:24,384] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:38:24,512] m-LoRA: Init train : task_gsm8k_64 task with adapters: ['lora_gsm8k_64']
+[2025-12-25 19:38:26,648] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:38:26,831] m-LoRA: Init train : task_gsm8k_65 task with adapters: ['lora_gsm8k_65']
+[2025-12-25 19:38:29,048] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:38:29,219] m-LoRA: Init train : task_gsm8k_66 task with adapters: ['lora_gsm8k_66']
+[2025-12-25 19:38:31,464] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:38:31,710] m-LoRA: Init train : task_gsm8k_67 task with adapters: ['lora_gsm8k_67']
+[2025-12-25 19:38:34,076] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:38:34,313] m-LoRA: Init train : task_gsm8k_68 task with adapters: ['lora_gsm8k_68']
+[2025-12-25 19:38:36,495] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:38:36,772] m-LoRA: Init train : task_gsm8k_69 task with adapters: ['lora_gsm8k_69']
+[2025-12-25 19:38:38,638] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:38:38,885] m-LoRA: Init train : task_gsm8k_70 task with adapters: ['lora_gsm8k_70']
+[2025-12-25 19:38:41,225] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:38:41,465] m-LoRA: Init train : task_gsm8k_71 task with adapters: ['lora_gsm8k_71']
+[2025-12-25 19:38:43,727] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:38:43,818] m-LoRA: Init train : task_gsm8k_72 task with adapters: ['lora_gsm8k_72']
+[2025-12-25 19:38:45,823] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:38:46,347] m-LoRA: Init train : task_gsm8k_73 task with adapters: ['lora_gsm8k_73']
+[2025-12-25 19:38:48,635] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:38:48,820] m-LoRA: Init train : task_gsm8k_74 task with adapters: ['lora_gsm8k_74']
+[2025-12-25 19:38:50,990] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:38:51,226] m-LoRA: Init train : task_gsm8k_75 task with adapters: ['lora_gsm8k_75']
+[2025-12-25 19:38:52,855] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:38:52,855] m-LoRA: Init train : task_gsm8k_76 task with adapters: ['lora_gsm8k_76']
+[2025-12-25 19:38:55,146] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:38:55,146] m-LoRA: Init train : task_gsm8k_77 task with adapters: ['lora_gsm8k_77']
+[2025-12-25 19:38:55,347] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:38:55,552] m-LoRA: Init train : task_gsm8k_78 task with adapters: ['lora_gsm8k_78']
+[2025-12-25 19:38:57,234] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:38:57,234] m-LoRA: Init train : task_gsm8k_79 task with adapters: ['lora_gsm8k_79']
+[2025-12-25 19:38:59,551] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:38:59,740] m-LoRA: Init train : task_gsm8k_80 task with adapters: ['lora_gsm8k_80']
+[2025-12-25 19:39:02,105] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:39:02,206] m-LoRA: Init train : task_gsm8k_81 task with adapters: ['lora_gsm8k_81']
+[2025-12-25 19:39:04,462] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:39:04,537] m-LoRA: Init train : task_gsm8k_82 task with adapters: ['lora_gsm8k_82']
+[2025-12-25 19:39:06,841] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:39:06,926] m-LoRA: Init train : task_gsm8k_83 task with adapters: ['lora_gsm8k_83']
+[2025-12-25 19:39:09,201] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:39:09,297] m-LoRA: Init train : task_gsm8k_84 task with adapters: ['lora_gsm8k_84']
+[2025-12-25 19:39:11,554] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:39:11,729] m-LoRA: Init train : task_gsm8k_85 task with adapters: ['lora_gsm8k_85']
+[2025-12-25 19:39:13,835] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:39:14,038] m-LoRA: Init train : task_gsm8k_86 task with adapters: ['lora_gsm8k_86']
+[2025-12-25 19:39:15,783] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:39:16,148] m-LoRA: Init train : task_gsm8k_87 task with adapters: ['lora_gsm8k_87']
+[2025-12-25 19:39:17,703] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:39:17,960] m-LoRA: Init train : task_gsm8k_88 task with adapters: ['lora_gsm8k_88']
+[2025-12-25 19:39:20,320] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:39:20,465] m-LoRA: Init train : task_gsm8k_89 task with adapters: ['lora_gsm8k_89']
+[2025-12-25 19:39:22,749] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-25 19:39:23,030] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_0']
+[2025-12-25 19:39:23,194] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_1']
+[2025-12-25 19:39:23,241] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_2']
+[2025-12-25 19:39:23,328] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_3']
+[2025-12-25 19:39:23,498] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_4']
+[2025-12-25 19:39:23,570] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_5']
+[2025-12-25 19:39:23,666] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_6']
+[2025-12-25 19:39:23,859] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_7']
+[2025-12-25 19:39:24,009] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_8']
+[2025-12-25 21:01:10,186] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_1']
+[2025-12-25 21:01:10,623] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_9']
+[2025-12-25 21:01:12,068] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_7']
+[2025-12-25 21:01:13,288] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_10']
+[2025-12-25 21:01:15,540] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_8']
+[2025-12-25 21:01:15,812] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_11']
+[2025-12-25 22:03:25,175] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_2']
+[2025-12-25 22:03:25,906] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_12']
+[2025-12-25 22:03:30,002] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_3']
+[2025-12-25 22:03:31,109] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_13']
+[2025-12-25 22:03:34,730] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_6']
+[2025-12-25 22:03:35,660] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_14']
+[2025-12-25 22:03:38,729] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_9']
+[2025-12-25 22:03:39,265] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_15']
+[2025-12-25 22:57:50,426] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_15']
+[2025-12-25 22:57:50,918] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_16']
+[2025-12-25 23:29:04,789] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_0']
+[2025-12-25 23:29:06,042] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_17']
+[2025-12-25 23:29:19,963] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_12']
+[2025-12-25 23:29:20,660] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_18']
+[2025-12-26 00:20:47,038] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_11']
+[2025-12-26 00:20:47,678] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_19']
+[2025-12-26 00:20:50,495] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_17']
+[2025-12-26 00:20:50,764] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_20']
+[2025-12-26 00:20:51,376] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_10']
+[2025-12-26 00:20:52,579] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_21']
+[2025-12-26 01:12:49,937] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_13']
+[2025-12-26 01:12:50,234] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_22']
+[2025-12-26 01:12:57,348] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_14']
+[2025-12-26 01:12:57,960] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_23']
+[2025-12-26 01:13:04,194] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_18']
+[2025-12-26 01:13:05,395] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_24']
+[2025-12-26 01:13:06,326] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_21']
+[2025-12-26 01:13:07,143] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_25']
+[2025-12-26 02:03:05,497] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_19']
+[2025-12-26 02:03:06,521] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_26']
+[2025-12-26 02:03:22,800] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_25']
+[2025-12-26 02:03:23,133] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_27']
+[2025-12-26 02:33:37,958] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_4']
+[2025-12-26 02:33:38,582] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_28']
+[2025-12-26 02:33:42,162] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_5']
+[2025-12-26 02:33:42,677] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_29']
+[2025-12-26 02:34:09,693] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_22']
+[2025-12-26 02:34:10,691] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_30']
+[2025-12-26 03:28:11,083] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_29']
+[2025-12-26 03:28:12,097] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_31']
+[2025-12-26 03:28:42,517] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_27']
+[2025-12-26 03:28:43,411] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_32']
+[2025-12-26 03:59:30,673] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_28']
+[2025-12-26 03:59:31,177] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_33']
+[2025-12-26 03:59:41,948] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_23']
+[2025-12-26 03:59:42,289] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_34']
+[2025-12-26 03:59:48,059] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_30']
+[2025-12-26 03:59:48,280] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_35']
+[2025-12-26 04:23:40,114] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_16']
+[2025-12-26 04:23:40,419] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_36']
+[2025-12-26 05:09:48,534] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_36']
+[2025-12-26 05:09:49,615] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_37']
+[2025-12-26 05:09:55,073] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_34']
+[2025-12-26 05:09:55,453] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_38']
+[2025-12-26 05:26:03,544] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_20']
+[2025-12-26 05:26:03,867] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_39']
+[2025-12-26 06:13:15,260] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_39']
+[2025-12-26 06:13:15,587] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_40']
+[2025-12-26 06:13:17,282] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_24']
+[2025-12-26 06:13:18,311] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_41']
+[2025-12-26 07:03:33,528] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_26']
+[2025-12-26 07:03:33,900] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_42']
+[2025-12-26 07:03:43,780] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_41']
+[2025-12-26 07:03:45,108] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_43']
+[2025-12-26 08:15:01,970] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_40']
+[2025-12-26 08:15:03,089] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_44']
+[2025-12-26 08:15:10,633] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_38']
+[2025-12-26 08:15:10,979] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_45']
+[2025-12-26 08:15:11,073] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_42']
+[2025-12-26 08:15:11,921] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_46']
+[2025-12-26 08:15:25,934] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_43']
+[2025-12-26 08:15:26,770] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_47']
+[2025-12-26 09:27:14,934] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_31']
+[2025-12-26 09:27:15,468] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_48']
+[2025-12-26 09:28:20,881] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_32']
+[2025-12-26 09:28:21,376] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_49']
+[2025-12-26 09:28:50,779] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_45']
+[2025-12-26 09:28:51,157] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_50']
+[2025-12-26 09:28:56,118] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_46']
+[2025-12-26 09:28:56,574] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_51']
+[2025-12-26 09:28:59,647] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_47']
+[2025-12-26 09:29:00,085] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_52']
+[2025-12-26 10:07:09,531] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_33']
+[2025-12-26 10:07:10,110] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_53']
+[2025-12-26 10:07:45,723] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_35']
+[2025-12-26 10:07:47,063] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_54']
+[2025-12-26 10:08:07,717] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_44']
+[2025-12-26 10:08:08,116] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_55']
+[2025-12-26 11:16:43,448] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_48']
+[2025-12-26 11:16:43,761] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_56']
+[2025-12-26 11:16:44,034] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_53']
+[2025-12-26 11:16:44,711] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_57']
+[2025-12-26 11:17:30,268] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_54']
+[2025-12-26 11:17:30,673] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_58']
+[2025-12-26 11:18:11,646] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_50']
+[2025-12-26 11:18:12,856] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_59']
+[2025-12-26 11:18:13,335] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_51']
+[2025-12-26 11:18:14,132] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_60']
+[2025-12-26 12:28:44,811] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_56']
+[2025-12-26 12:28:45,626] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_61']
+[2025-12-26 12:28:46,015] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_37']
+[2025-12-26 12:28:46,397] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_62']
+[2025-12-26 12:28:49,340] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_57']
+[2025-12-26 12:28:50,430] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_63']
+[2025-12-26 12:30:03,626] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_60']
+[2025-12-26 12:30:04,096] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_64']
+[2025-12-26 13:18:06,284] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_61']
+[2025-12-26 13:18:06,942] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_65']
+[2025-12-26 13:47:51,454] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_63']
+[2025-12-26 13:47:52,046] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_66']
+[2025-12-26 13:47:59,338] m-LoRA: Finish and base model offload adapter - ['lora_gsm8k_55']
+[2025-12-26 13:47:59,798] m-LoRA: Task to running, need to load adapters: ['lora_gsm8k_67']

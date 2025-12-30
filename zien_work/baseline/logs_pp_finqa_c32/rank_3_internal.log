@@ -1,0 +1,462 @@
+[2025-12-23 17:23:21,104] m-LoRA: NVIDIA CUDA initialized successfully.
+[2025-12-23 17:23:21,104] m-LoRA: Total 8 GPU(s) detected.
+[2025-12-23 17:23:21,327] m-LoRA: Pipeline parallelism, rank is 3 and balance is [8, 9, 9, 9].
+[2025-12-23 17:23:21,329] m-LoRA: Loading model with precision - bf16
+[2025-12-23 17:23:22,409] m-LoRA: Some parameters are on the meta device because they were offloaded to the disk.
+[2025-12-23 17:23:22,409] m-LoRA: loading llama compatible model - llama
+[2025-12-23 17:23:22,553] m-LoRA: Adapter lora_finqa_0 without lr_scheduler.
+[2025-12-23 17:23:22,553] m-LoRA: Adapter lora_finqa_1 without lr_scheduler.
+[2025-12-23 17:23:22,553] m-LoRA: Adapter lora_finqa_2 without lr_scheduler.
+[2025-12-23 17:23:22,553] m-LoRA: Adapter lora_finqa_3 without lr_scheduler.
+[2025-12-23 17:23:22,553] m-LoRA: Adapter lora_finqa_4 without lr_scheduler.
+[2025-12-23 17:23:22,553] m-LoRA: Adapter lora_finqa_5 without lr_scheduler.
+[2025-12-23 17:23:22,553] m-LoRA: Adapter lora_finqa_6 without lr_scheduler.
+[2025-12-23 17:23:22,553] m-LoRA: Adapter lora_finqa_7 without lr_scheduler.
+[2025-12-23 17:23:22,553] m-LoRA: Adapter lora_finqa_8 without lr_scheduler.
+[2025-12-23 17:23:22,553] m-LoRA: Adapter lora_finqa_9 without lr_scheduler.
+[2025-12-23 17:23:22,553] m-LoRA: Adapter lora_finqa_10 without lr_scheduler.
+[2025-12-23 17:23:22,553] m-LoRA: Adapter lora_finqa_11 without lr_scheduler.
+[2025-12-23 17:23:22,553] m-LoRA: Adapter lora_finqa_12 without lr_scheduler.
+[2025-12-23 17:23:22,553] m-LoRA: Adapter lora_finqa_13 without lr_scheduler.
+[2025-12-23 17:23:22,553] m-LoRA: Adapter lora_finqa_14 without lr_scheduler.
+[2025-12-23 17:23:22,553] m-LoRA: Adapter lora_finqa_15 without lr_scheduler.
+[2025-12-23 17:23:22,553] m-LoRA: Adapter lora_finqa_16 without lr_scheduler.
+[2025-12-23 17:23:22,553] m-LoRA: Adapter lora_finqa_17 without lr_scheduler.
+[2025-12-23 17:23:22,553] m-LoRA: Adapter lora_finqa_18 without lr_scheduler.
+[2025-12-23 17:23:22,553] m-LoRA: Adapter lora_finqa_19 without lr_scheduler.
+[2025-12-23 17:23:22,553] m-LoRA: Adapter lora_finqa_20 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_21 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_22 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_23 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_24 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_25 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_26 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_27 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_28 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_29 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_30 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_31 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_32 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_33 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_34 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_35 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_36 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_37 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_38 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_39 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_40 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_41 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_42 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_43 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_44 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_45 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_46 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_47 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_48 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_49 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_50 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_51 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_52 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_53 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_54 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_55 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_56 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_57 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_58 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_59 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_60 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_61 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_62 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_63 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_64 without lr_scheduler.
+[2025-12-23 17:23:22,554] m-LoRA: Adapter lora_finqa_65 without lr_scheduler.
+[2025-12-23 17:23:22,555] m-LoRA: Adapter lora_finqa_66 without lr_scheduler.
+[2025-12-23 17:23:22,555] m-LoRA: Adapter lora_finqa_67 without lr_scheduler.
+[2025-12-23 17:23:22,555] m-LoRA: Adapter lora_finqa_68 without lr_scheduler.
+[2025-12-23 17:23:22,555] m-LoRA: Adapter lora_finqa_69 without lr_scheduler.
+[2025-12-23 17:23:22,555] m-LoRA: Adapter lora_finqa_70 without lr_scheduler.
+[2025-12-23 17:23:22,555] m-LoRA: Adapter lora_finqa_71 without lr_scheduler.
+[2025-12-23 17:23:22,555] m-LoRA: Adapter lora_finqa_72 without lr_scheduler.
+[2025-12-23 17:23:22,555] m-LoRA: Adapter lora_finqa_73 without lr_scheduler.
+[2025-12-23 17:23:22,555] m-LoRA: Adapter lora_finqa_74 without lr_scheduler.
+[2025-12-23 17:23:22,555] m-LoRA: Adapter lora_finqa_75 without lr_scheduler.
+[2025-12-23 17:23:22,555] m-LoRA: Adapter lora_finqa_76 without lr_scheduler.
+[2025-12-23 17:23:22,555] m-LoRA: Adapter lora_finqa_77 without lr_scheduler.
+[2025-12-23 17:23:22,555] m-LoRA: Adapter lora_finqa_78 without lr_scheduler.
+[2025-12-23 17:23:22,555] m-LoRA: Adapter lora_finqa_79 without lr_scheduler.
+[2025-12-23 17:23:22,555] m-LoRA: Adapter lora_finqa_80 without lr_scheduler.
+[2025-12-23 17:23:22,555] m-LoRA: Adapter lora_finqa_81 without lr_scheduler.
+[2025-12-23 17:23:22,555] m-LoRA: Adapter lora_finqa_82 without lr_scheduler.
+[2025-12-23 17:23:22,555] m-LoRA: Adapter lora_finqa_83 without lr_scheduler.
+[2025-12-23 17:23:22,555] m-LoRA: Adapter lora_finqa_84 without lr_scheduler.
+[2025-12-23 17:23:22,555] m-LoRA: Adapter lora_finqa_85 without lr_scheduler.
+[2025-12-23 17:23:22,555] m-LoRA: Adapter lora_finqa_86 without lr_scheduler.
+[2025-12-23 17:23:22,555] m-LoRA: Adapter lora_finqa_87 without lr_scheduler.
+[2025-12-23 17:23:22,555] m-LoRA: Adapter lora_finqa_88 without lr_scheduler.
+[2025-12-23 17:23:22,555] m-LoRA: Adapter lora_finqa_89 without lr_scheduler.
+[2025-12-23 17:23:22,555] m-LoRA: RANK-3 in device cuda:3 to load module layers from 26 to 35.
+[2025-12-23 17:23:22,562] m-LoRA: DeviceSwapQueue - ACTIVATIONS_send start.
+[2025-12-23 17:23:22,563] m-LoRA: DeviceSwapQueue - GRADIENTS_send start.
+[2025-12-23 17:23:22,563] m-LoRA: DeviceSwapQueue - ACTIVATIONS_recv start.
+[2025-12-23 17:23:22,564] m-LoRA: DeviceSwapQueue - GRADIENTS_recv start.
+[2025-12-23 17:23:23,306] m-LoRA: Init rpc with rank 3 world_size: 4
+[2025-12-23 17:23:23,367] m-LoRA: Init train : task_finqa_0 task with adapters: ['lora_finqa_0']
+[2025-12-23 17:23:25,333] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:23:25,696] m-LoRA: Init train : task_finqa_1 task with adapters: ['lora_finqa_1']
+[2025-12-23 17:23:27,151] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:23:27,203] m-LoRA: Init train : task_finqa_2 task with adapters: ['lora_finqa_2']
+[2025-12-23 17:23:28,963] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:23:29,165] m-LoRA: Init train : task_finqa_3 task with adapters: ['lora_finqa_3']
+[2025-12-23 17:23:30,269] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:23:30,735] m-LoRA: Init train : task_finqa_4 task with adapters: ['lora_finqa_4']
+[2025-12-23 17:23:32,226] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:23:32,645] m-LoRA: Init train : task_finqa_5 task with adapters: ['lora_finqa_5']
+[2025-12-23 17:23:32,862] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:23:32,944] m-LoRA: Init train : task_finqa_6 task with adapters: ['lora_finqa_6']
+[2025-12-23 17:23:34,381] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:23:34,684] m-LoRA: Init train : task_finqa_7 task with adapters: ['lora_finqa_7']
+[2025-12-23 17:23:34,864] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:23:35,018] m-LoRA: Init train : task_finqa_8 task with adapters: ['lora_finqa_8']
+[2025-12-23 17:23:37,072] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:23:37,304] m-LoRA: Init train : task_finqa_9 task with adapters: ['lora_finqa_9']
+[2025-12-23 17:23:39,189] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:23:39,388] m-LoRA: Init train : task_finqa_10 task with adapters: ['lora_finqa_10']
+[2025-12-23 17:23:40,878] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:23:41,090] m-LoRA: Init train : task_finqa_11 task with adapters: ['lora_finqa_11']
+[2025-12-23 17:23:42,404] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:23:42,568] m-LoRA: Init train : task_finqa_12 task with adapters: ['lora_finqa_12']
+[2025-12-23 17:23:44,460] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:23:44,709] m-LoRA: Init train : task_finqa_13 task with adapters: ['lora_finqa_13']
+[2025-12-23 17:23:46,556] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:23:46,668] m-LoRA: Init train : task_finqa_14 task with adapters: ['lora_finqa_14']
+[2025-12-23 17:23:48,121] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:23:48,554] m-LoRA: Init train : task_finqa_15 task with adapters: ['lora_finqa_15']
+[2025-12-23 17:23:48,758] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:23:48,940] m-LoRA: Init train : task_finqa_16 task with adapters: ['lora_finqa_16']
+[2025-12-23 17:23:50,672] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:23:50,808] m-LoRA: Init train : task_finqa_17 task with adapters: ['lora_finqa_17']
+[2025-12-23 17:23:51,922] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:23:52,305] m-LoRA: Init train : task_finqa_18 task with adapters: ['lora_finqa_18']
+[2025-12-23 17:23:53,957] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:23:54,218] m-LoRA: Init train : task_finqa_19 task with adapters: ['lora_finqa_19']
+[2025-12-23 17:23:55,693] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:23:55,991] m-LoRA: Init train : task_finqa_20 task with adapters: ['lora_finqa_20']
+[2025-12-23 17:23:57,777] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:23:58,071] m-LoRA: Init train : task_finqa_21 task with adapters: ['lora_finqa_21']
+[2025-12-23 17:23:58,193] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:23:58,230] m-LoRA: Init train : task_finqa_22 task with adapters: ['lora_finqa_22']
+[2025-12-23 17:23:59,146] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:00,004] m-LoRA: Init train : task_finqa_23 task with adapters: ['lora_finqa_23']
+[2025-12-23 17:24:00,222] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:00,296] m-LoRA: Init train : task_finqa_24 task with adapters: ['lora_finqa_24']
+[2025-12-23 17:24:02,304] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:02,504] m-LoRA: Init train : task_finqa_25 task with adapters: ['lora_finqa_25']
+[2025-12-23 17:24:02,650] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:02,654] m-LoRA: Init train : task_finqa_26 task with adapters: ['lora_finqa_26']
+[2025-12-23 17:24:04,617] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:04,699] m-LoRA: Init train : task_finqa_27 task with adapters: ['lora_finqa_27']
+[2025-12-23 17:24:06,635] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:06,942] m-LoRA: Init train : task_finqa_28 task with adapters: ['lora_finqa_28']
+[2025-12-23 17:24:08,872] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:08,975] m-LoRA: Init train : task_finqa_29 task with adapters: ['lora_finqa_29']
+[2025-12-23 17:24:10,841] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:10,935] m-LoRA: Init train : task_finqa_30 task with adapters: ['lora_finqa_30']
+[2025-12-23 17:24:11,168] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:11,275] m-LoRA: Init train : task_finqa_31 task with adapters: ['lora_finqa_31']
+[2025-12-23 17:24:12,961] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:13,081] m-LoRA: Init train : task_finqa_32 task with adapters: ['lora_finqa_32']
+[2025-12-23 17:24:14,899] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:15,001] m-LoRA: Init train : task_finqa_33 task with adapters: ['lora_finqa_33']
+[2025-12-23 17:24:15,091] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:15,179] m-LoRA: Init train : task_finqa_34 task with adapters: ['lora_finqa_34']
+[2025-12-23 17:24:17,155] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:17,318] m-LoRA: Init train : task_finqa_35 task with adapters: ['lora_finqa_35']
+[2025-12-23 17:24:19,224] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:19,361] m-LoRA: Init train : task_finqa_36 task with adapters: ['lora_finqa_36']
+[2025-12-23 17:24:20,427] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:20,553] m-LoRA: Init train : task_finqa_37 task with adapters: ['lora_finqa_37']
+[2025-12-23 17:24:22,104] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:22,326] m-LoRA: Init train : task_finqa_38 task with adapters: ['lora_finqa_38']
+[2025-12-23 17:24:24,115] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:24,414] m-LoRA: Init train : task_finqa_39 task with adapters: ['lora_finqa_39']
+[2025-12-23 17:24:24,597] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:24,726] m-LoRA: Init train : task_finqa_40 task with adapters: ['lora_finqa_40']
+[2025-12-23 17:24:26,356] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:26,570] m-LoRA: Init train : task_finqa_41 task with adapters: ['lora_finqa_41']
+[2025-12-23 17:24:28,112] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:28,380] m-LoRA: Init train : task_finqa_42 task with adapters: ['lora_finqa_42']
+[2025-12-23 17:24:30,052] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:30,370] m-LoRA: Init train : task_finqa_43 task with adapters: ['lora_finqa_43']
+[2025-12-23 17:24:30,527] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:30,550] m-LoRA: Init train : task_finqa_44 task with adapters: ['lora_finqa_44']
+[2025-12-23 17:24:32,540] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:32,615] m-LoRA: Init train : task_finqa_45 task with adapters: ['lora_finqa_45']
+[2025-12-23 17:24:34,474] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:34,634] m-LoRA: Init train : task_finqa_46 task with adapters: ['lora_finqa_46']
+[2025-12-23 17:24:36,560] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:36,705] m-LoRA: Init train : task_finqa_47 task with adapters: ['lora_finqa_47']
+[2025-12-23 17:24:38,842] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:38,997] m-LoRA: Init train : task_finqa_48 task with adapters: ['lora_finqa_48']
+[2025-12-23 17:24:40,943] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:41,034] m-LoRA: Init train : task_finqa_49 task with adapters: ['lora_finqa_49']
+[2025-12-23 17:24:43,099] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:43,335] m-LoRA: Init train : task_finqa_50 task with adapters: ['lora_finqa_50']
+[2025-12-23 17:24:45,103] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:45,188] m-LoRA: Init train : task_finqa_51 task with adapters: ['lora_finqa_51']
+[2025-12-23 17:24:46,999] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:47,373] m-LoRA: Init train : task_finqa_52 task with adapters: ['lora_finqa_52']
+[2025-12-23 17:24:47,531] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:47,551] m-LoRA: Init train : task_finqa_53 task with adapters: ['lora_finqa_53']
+[2025-12-23 17:24:49,081] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:49,246] m-LoRA: Init train : task_finqa_54 task with adapters: ['lora_finqa_54']
+[2025-12-23 17:24:51,138] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:51,303] m-LoRA: Init train : task_finqa_55 task with adapters: ['lora_finqa_55']
+[2025-12-23 17:24:53,276] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:53,399] m-LoRA: Init train : task_finqa_56 task with adapters: ['lora_finqa_56']
+[2025-12-23 17:24:54,729] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:55,198] m-LoRA: Init train : task_finqa_57 task with adapters: ['lora_finqa_57']
+[2025-12-23 17:24:56,275] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:56,332] m-LoRA: Init train : task_finqa_58 task with adapters: ['lora_finqa_58']
+[2025-12-23 17:24:58,115] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:58,238] m-LoRA: Init train : task_finqa_59 task with adapters: ['lora_finqa_59']
+[2025-12-23 17:24:58,465] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:58,542] m-LoRA: Init train : task_finqa_60 task with adapters: ['lora_finqa_60']
+[2025-12-23 17:24:59,189] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:59,215] m-LoRA: Init train : task_finqa_61 task with adapters: ['lora_finqa_61']
+[2025-12-23 17:24:59,439] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:24:59,595] m-LoRA: Init train : task_finqa_62 task with adapters: ['lora_finqa_62']
+[2025-12-23 17:25:01,297] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:25:01,385] m-LoRA: Init train : task_finqa_63 task with adapters: ['lora_finqa_63']
+[2025-12-23 17:25:01,612] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:25:01,736] m-LoRA: Init train : task_finqa_64 task with adapters: ['lora_finqa_64']
+[2025-12-23 17:25:03,860] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:25:03,959] m-LoRA: Init train : task_finqa_65 task with adapters: ['lora_finqa_65']
+[2025-12-23 17:25:05,665] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:25:05,847] m-LoRA: Init train : task_finqa_66 task with adapters: ['lora_finqa_66']
+[2025-12-23 17:25:07,896] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:25:08,079] m-LoRA: Init train : task_finqa_67 task with adapters: ['lora_finqa_67']
+[2025-12-23 17:25:09,735] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:25:09,970] m-LoRA: Init train : task_finqa_68 task with adapters: ['lora_finqa_68']
+[2025-12-23 17:25:11,955] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:25:12,096] m-LoRA: Init train : task_finqa_69 task with adapters: ['lora_finqa_69']
+[2025-12-23 17:25:13,867] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:25:14,054] m-LoRA: Init train : task_finqa_70 task with adapters: ['lora_finqa_70']
+[2025-12-23 17:25:16,063] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:25:16,256] m-LoRA: Init train : task_finqa_71 task with adapters: ['lora_finqa_71']
+[2025-12-23 17:25:18,055] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:25:18,361] m-LoRA: Init train : task_finqa_72 task with adapters: ['lora_finqa_72']
+[2025-12-23 17:25:20,293] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:25:20,471] m-LoRA: Init train : task_finqa_73 task with adapters: ['lora_finqa_73']
+[2025-12-23 17:25:22,523] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:25:22,697] m-LoRA: Init train : task_finqa_74 task with adapters: ['lora_finqa_74']
+[2025-12-23 17:25:24,728] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:25:24,877] m-LoRA: Init train : task_finqa_75 task with adapters: ['lora_finqa_75']
+[2025-12-23 17:25:26,728] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:25:26,807] m-LoRA: Init train : task_finqa_76 task with adapters: ['lora_finqa_76']
+[2025-12-23 17:25:27,679] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:25:28,380] m-LoRA: Init train : task_finqa_77 task with adapters: ['lora_finqa_77']
+[2025-12-23 17:25:29,563] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:25:29,989] m-LoRA: Init train : task_finqa_78 task with adapters: ['lora_finqa_78']
+[2025-12-23 17:25:31,381] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:25:31,854] m-LoRA: Init train : task_finqa_79 task with adapters: ['lora_finqa_79']
+[2025-12-23 17:25:32,645] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:25:33,281] m-LoRA: Init train : task_finqa_80 task with adapters: ['lora_finqa_80']
+[2025-12-23 17:25:35,237] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:25:35,302] m-LoRA: Init train : task_finqa_81 task with adapters: ['lora_finqa_81']
+[2025-12-23 17:25:35,494] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:25:35,640] m-LoRA: Init train : task_finqa_82 task with adapters: ['lora_finqa_82']
+[2025-12-23 17:25:37,457] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:25:37,712] m-LoRA: Init train : task_finqa_83 task with adapters: ['lora_finqa_83']
+[2025-12-23 17:25:39,547] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:25:39,618] m-LoRA: Init train : task_finqa_84 task with adapters: ['lora_finqa_84']
+[2025-12-23 17:25:40,619] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:25:40,673] m-LoRA: Init train : task_finqa_85 task with adapters: ['lora_finqa_85']
+[2025-12-23 17:25:42,468] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:25:42,812] m-LoRA: Init train : task_finqa_86 task with adapters: ['lora_finqa_86']
+[2025-12-23 17:25:42,941] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:25:42,978] m-LoRA: Init train : task_finqa_87 task with adapters: ['lora_finqa_87']
+[2025-12-23 17:25:43,166] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:25:43,360] m-LoRA: Init train : task_finqa_88 task with adapters: ['lora_finqa_88']
+[2025-12-23 17:25:45,276] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:25:45,460] m-LoRA: Init train : task_finqa_89 task with adapters: ['lora_finqa_89']
+[2025-12-23 17:25:45,842] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 17:25:45,931] m-LoRA: Task to running, need to load adapters: ['lora_finqa_0']
+[2025-12-23 17:25:46,004] m-LoRA: Task to running, need to load adapters: ['lora_finqa_1']
+[2025-12-23 17:25:46,047] m-LoRA: Task to running, need to load adapters: ['lora_finqa_2']
+[2025-12-23 17:25:46,148] m-LoRA: Task to running, need to load adapters: ['lora_finqa_3']
+[2025-12-23 17:25:46,200] m-LoRA: Task to running, need to load adapters: ['lora_finqa_4']
+[2025-12-23 17:25:46,406] m-LoRA: Task to running, need to load adapters: ['lora_finqa_5']
+[2025-12-23 17:25:46,629] m-LoRA: Task to running, need to load adapters: ['lora_finqa_6']
+[2025-12-23 17:25:46,822] m-LoRA: Task to running, need to load adapters: ['lora_finqa_7']
+[2025-12-23 17:25:47,028] m-LoRA: Task to running, need to load adapters: ['lora_finqa_8']
+[2025-12-23 17:25:47,225] m-LoRA: Task to running, need to load adapters: ['lora_finqa_9']
+[2025-12-23 17:25:47,422] m-LoRA: Task to running, need to load adapters: ['lora_finqa_10']
+[2025-12-23 17:25:47,476] m-LoRA: Task to running, need to load adapters: ['lora_finqa_11']
+[2025-12-23 17:25:47,516] m-LoRA: Task to running, need to load adapters: ['lora_finqa_12']
+[2025-12-23 17:25:47,722] m-LoRA: Task to running, need to load adapters: ['lora_finqa_13']
+[2025-12-23 17:25:47,830] m-LoRA: Task to running, need to load adapters: ['lora_finqa_14']
+[2025-12-23 17:25:47,878] m-LoRA: Task to running, need to load adapters: ['lora_finqa_15']
+[2025-12-23 17:25:48,094] m-LoRA: Task to running, need to load adapters: ['lora_finqa_16']
+[2025-12-23 17:25:48,305] m-LoRA: Task to running, need to load adapters: ['lora_finqa_17']
+[2025-12-23 17:25:48,401] m-LoRA: Task to running, need to load adapters: ['lora_finqa_18']
+[2025-12-23 17:25:48,503] m-LoRA: Task to running, need to load adapters: ['lora_finqa_19']
+[2025-12-23 17:25:48,552] m-LoRA: Task to running, need to load adapters: ['lora_finqa_20']
+[2025-12-23 17:25:48,744] m-LoRA: Task to running, need to load adapters: ['lora_finqa_21']
+[2025-12-23 17:25:48,865] m-LoRA: Task to running, need to load adapters: ['lora_finqa_22']
+[2025-12-23 17:25:48,999] m-LoRA: Task to running, need to load adapters: ['lora_finqa_23']
+[2025-12-23 17:25:49,274] m-LoRA: Task to running, need to load adapters: ['lora_finqa_24']
+[2025-12-23 17:25:49,486] m-LoRA: Task to running, need to load adapters: ['lora_finqa_25']
+[2025-12-23 17:25:49,597] m-LoRA: Task to running, need to load adapters: ['lora_finqa_26']
+[2025-12-23 17:25:49,723] m-LoRA: Task to running, need to load adapters: ['lora_finqa_27']
+[2025-12-23 17:25:49,901] m-LoRA: Task to running, need to load adapters: ['lora_finqa_28']
+[2025-12-23 17:25:50,198] m-LoRA: Task to running, need to load adapters: ['lora_finqa_29']
+[2025-12-23 17:25:50,302] m-LoRA: Task to running, need to load adapters: ['lora_finqa_30']
+[2025-12-23 17:25:50,542] m-LoRA: Task to running, need to load adapters: ['lora_finqa_31']
+[2025-12-23 17:25:51,507] m-LoRA: Task to running, need to load adapters: ['lora_finqa_32']
+[2025-12-23 17:33:42,997] m-LoRA: Finish and base model offload adapter - ['lora_finqa_2']
+[2025-12-23 17:33:43,884] m-LoRA: Task to running, need to load adapters: ['lora_finqa_33']
+[2025-12-23 17:33:44,686] m-LoRA: Finish and base model offload adapter - ['lora_finqa_4']
+[2025-12-23 17:33:46,234] m-LoRA: Task to running, need to load adapters: ['lora_finqa_34']
+[2025-12-23 17:33:46,927] m-LoRA: Finish and base model offload adapter - ['lora_finqa_5']
+[2025-12-23 17:33:47,818] m-LoRA: Task to running, need to load adapters: ['lora_finqa_35']
+[2025-12-23 17:34:04,909] m-LoRA: Finish and base model offload adapter - ['lora_finqa_14']
+[2025-12-23 17:34:05,261] m-LoRA: Task to running, need to load adapters: ['lora_finqa_36']
+[2025-12-23 17:34:14,975] m-LoRA: Finish and base model offload adapter - ['lora_finqa_20']
+[2025-12-23 17:34:15,863] m-LoRA: Task to running, need to load adapters: ['lora_finqa_37']
+[2025-12-23 17:34:23,067] m-LoRA: Finish and base model offload adapter - ['lora_finqa_24']
+[2025-12-23 17:34:23,723] m-LoRA: Task to running, need to load adapters: ['lora_finqa_38']
+[2025-12-23 17:34:29,645] m-LoRA: Finish and base model offload adapter - ['lora_finqa_28']
+[2025-12-23 17:34:30,304] m-LoRA: Task to running, need to load adapters: ['lora_finqa_39']
+[2025-12-23 17:34:34,183] m-LoRA: Finish and base model offload adapter - ['lora_finqa_31']
+[2025-12-23 17:34:35,097] m-LoRA: Task to running, need to load adapters: ['lora_finqa_40']
+[2025-12-23 17:39:16,666] m-LoRA: Finish and base model offload adapter - ['lora_finqa_33']
+[2025-12-23 17:39:17,166] m-LoRA: Task to running, need to load adapters: ['lora_finqa_41']
+[2025-12-23 17:39:21,724] m-LoRA: Finish and base model offload adapter - ['lora_finqa_6']
+[2025-12-23 17:39:22,523] m-LoRA: Task to running, need to load adapters: ['lora_finqa_42']
+[2025-12-23 17:39:25,497] m-LoRA: Finish and base model offload adapter - ['lora_finqa_9']
+[2025-12-23 17:39:26,166] m-LoRA: Task to running, need to load adapters: ['lora_finqa_43']
+[2025-12-23 17:39:30,903] m-LoRA: Finish and base model offload adapter - ['lora_finqa_12']
+[2025-12-23 17:39:31,586] m-LoRA: Task to running, need to load adapters: ['lora_finqa_44']
+[2025-12-23 17:39:35,627] m-LoRA: Finish and base model offload adapter - ['lora_finqa_17']
+[2025-12-23 17:39:36,053] m-LoRA: Task to running, need to load adapters: ['lora_finqa_45']
+[2025-12-23 17:39:38,544] m-LoRA: Finish and base model offload adapter - ['lora_finqa_19']
+[2025-12-23 17:39:38,945] m-LoRA: Task to running, need to load adapters: ['lora_finqa_46']
+[2025-12-23 17:39:41,139] m-LoRA: Finish and base model offload adapter - ['lora_finqa_22']
+[2025-12-23 17:39:41,516] m-LoRA: Task to running, need to load adapters: ['lora_finqa_47']
+[2025-12-23 17:39:44,300] m-LoRA: Finish and base model offload adapter - ['lora_finqa_38']
+[2025-12-23 17:39:44,712] m-LoRA: Task to running, need to load adapters: ['lora_finqa_48']
+[2025-12-23 17:39:47,179] m-LoRA: Finish and base model offload adapter - ['lora_finqa_29']
+[2025-12-23 17:39:47,615] m-LoRA: Task to running, need to load adapters: ['lora_finqa_49']
+[2025-12-23 17:39:48,052] m-LoRA: Finish and base model offload adapter - ['lora_finqa_30']
+[2025-12-23 17:39:49,096] m-LoRA: Task to running, need to load adapters: ['lora_finqa_50']
+[2025-12-23 17:43:48,915] m-LoRA: Task to running, need to load adapters: ['lora_finqa_51']
+[2025-12-23 17:43:50,051] m-LoRA: Finish and base model offload adapter - ['lora_finqa_34']
+[2025-12-23 17:43:51,815] m-LoRA: Finish and base model offload adapter - ['lora_finqa_43']
+[2025-12-23 17:43:52,410] m-LoRA: Task to running, need to load adapters: ['lora_finqa_52']
+[2025-12-23 17:43:53,211] m-LoRA: Finish and base model offload adapter - ['lora_finqa_44']
+[2025-12-23 17:43:53,967] m-LoRA: Task to running, need to load adapters: ['lora_finqa_53']
+[2025-12-23 17:44:10,255] m-LoRA: Finish and base model offload adapter - ['lora_finqa_49']
+[2025-12-23 17:44:10,822] m-LoRA: Finish and base model offload adapter - ['lora_finqa_50']
+[2025-12-23 17:44:11,302] m-LoRA: Task to running, need to load adapters: ['lora_finqa_54']
+[2025-12-23 17:44:11,978] m-LoRA: Task to running, need to load adapters: ['lora_finqa_55']
+[2025-12-23 17:47:13,932] m-LoRA: Task to running, need to load adapters: ['lora_finqa_56']
+[2025-12-23 17:47:14,424] m-LoRA: Finish and base model offload adapter - ['lora_finqa_10']
+[2025-12-23 17:47:14,883] m-LoRA: Task to running, need to load adapters: ['lora_finqa_57']
+[2025-12-23 17:47:15,290] m-LoRA: Finish and base model offload adapter - ['lora_finqa_11']
+[2025-12-23 17:47:15,417] m-LoRA: Task to running, need to load adapters: ['lora_finqa_58']
+[2025-12-23 17:47:15,953] m-LoRA: Finish and base model offload adapter - ['lora_finqa_13']
+[2025-12-23 17:47:16,608] m-LoRA: Finish and base model offload adapter - ['lora_finqa_53']
+[2025-12-23 17:47:16,896] m-LoRA: Task to running, need to load adapters: ['lora_finqa_59']
+[2025-12-23 17:47:19,006] m-LoRA: Finish and base model offload adapter - ['lora_finqa_18']
+[2025-12-23 17:47:21,429] m-LoRA: Task to running, need to load adapters: ['lora_finqa_60']
+[2025-12-23 17:47:23,562] m-LoRA: Task to running, need to load adapters: ['lora_finqa_61']
+[2025-12-23 17:47:23,923] m-LoRA: Finish and base model offload adapter - ['lora_finqa_21']
+[2025-12-23 17:47:25,684] m-LoRA: Finish and base model offload adapter - ['lora_finqa_26']
+[2025-12-23 17:47:26,052] m-LoRA: Task to running, need to load adapters: ['lora_finqa_62']
+[2025-12-23 17:47:26,307] m-LoRA: Finish and base model offload adapter - ['lora_finqa_27']
+[2025-12-23 17:47:27,220] m-LoRA: Task to running, need to load adapters: ['lora_finqa_63']
+[2025-12-23 17:47:27,617] m-LoRA: Finish and base model offload adapter - ['lora_finqa_54']
+[2025-12-23 17:47:28,192] m-LoRA: Task to running, need to load adapters: ['lora_finqa_64']
+[2025-12-23 17:47:30,121] m-LoRA: Finish and base model offload adapter - ['lora_finqa_32']
+[2025-12-23 17:47:31,048] m-LoRA: Task to running, need to load adapters: ['lora_finqa_65']
+[2025-12-23 17:50:13,981] m-LoRA: Finish and base model offload adapter - ['lora_finqa_35']
+[2025-12-23 17:50:14,477] m-LoRA: Task to running, need to load adapters: ['lora_finqa_66']
+[2025-12-23 17:50:15,751] m-LoRA: Finish and base model offload adapter - ['lora_finqa_52']
+[2025-12-23 17:50:16,243] m-LoRA: Task to running, need to load adapters: ['lora_finqa_67']
+[2025-12-23 17:50:18,474] m-LoRA: Finish and base model offload adapter - ['lora_finqa_59']
+[2025-12-23 17:50:19,257] m-LoRA: Task to running, need to load adapters: ['lora_finqa_68']
+[2025-12-23 17:50:29,144] m-LoRA: Finish and base model offload adapter - ['lora_finqa_39']
+[2025-12-23 17:50:29,889] m-LoRA: Task to running, need to load adapters: ['lora_finqa_69']
+[2025-12-23 17:53:34,091] m-LoRA: Finish and base model offload adapter - ['lora_finqa_41']
+[2025-12-23 17:53:34,425] m-LoRA: Task to running, need to load adapters: ['lora_finqa_70']
+[2025-12-23 17:53:39,656] m-LoRA: Task to running, need to load adapters: ['lora_finqa_71']
+[2025-12-23 17:53:39,928] m-LoRA: Finish and base model offload adapter - ['lora_finqa_56']
+[2025-12-23 17:53:40,861] m-LoRA: Finish and base model offload adapter - ['lora_finqa_58']
+[2025-12-23 17:53:41,570] m-LoRA: Task to running, need to load adapters: ['lora_finqa_72']
+[2025-12-23 17:53:43,359] m-LoRA: Finish and base model offload adapter - ['lora_finqa_68']
+[2025-12-23 17:53:43,945] m-LoRA: Task to running, need to load adapters: ['lora_finqa_73']
+[2025-12-23 17:53:44,629] m-LoRA: Finish and base model offload adapter - ['lora_finqa_45']
+[2025-12-23 17:53:45,151] m-LoRA: Task to running, need to load adapters: ['lora_finqa_74']
+[2025-12-23 17:53:50,664] m-LoRA: Finish and base model offload adapter - ['lora_finqa_69']
+[2025-12-23 17:53:51,155] m-LoRA: Task to running, need to load adapters: ['lora_finqa_75']
+[2025-12-23 17:56:30,044] m-LoRA: Finish and base model offload adapter - ['lora_finqa_67']
+[2025-12-23 17:56:30,436] m-LoRA: Task to running, need to load adapters: ['lora_finqa_76']
+[2025-12-23 17:56:32,680] m-LoRA: Finish and base model offload adapter - ['lora_finqa_73']
+[2025-12-23 17:56:33,480] m-LoRA: Task to running, need to load adapters: ['lora_finqa_77']
+[2025-12-23 17:58:56,876] m-LoRA: Task to running, need to load adapters: ['lora_finqa_78']
+[2025-12-23 17:58:57,223] m-LoRA: Finish and base model offload adapter - ['lora_finqa_0']
+[2025-12-23 17:58:57,503] m-LoRA: Finish and base model offload adapter - ['lora_finqa_3']
+[2025-12-23 17:58:57,617] m-LoRA: Task to running, need to load adapters: ['lora_finqa_79']
+[2025-12-23 17:58:58,921] m-LoRA: Task to running, need to load adapters: ['lora_finqa_80']
+[2025-12-23 17:58:59,234] m-LoRA: Finish and base model offload adapter - ['lora_finqa_1']
+[2025-12-23 17:59:00,448] m-LoRA: Finish and base model offload adapter - ['lora_finqa_7']
+[2025-12-23 17:59:01,170] m-LoRA: Task to running, need to load adapters: ['lora_finqa_81']
+[2025-12-23 17:59:01,558] m-LoRA: Finish and base model offload adapter - ['lora_finqa_8']
+[2025-12-23 17:59:02,054] m-LoRA: Task to running, need to load adapters: ['lora_finqa_82']
+[2025-12-23 17:59:02,163] m-LoRA: Finish and base model offload adapter - ['lora_finqa_71']
+[2025-12-23 17:59:02,593] m-LoRA: Task to running, need to load adapters: ['lora_finqa_83']
+[2025-12-23 17:59:04,222] m-LoRA: Finish and base model offload adapter - ['lora_finqa_15']
+[2025-12-23 17:59:04,975] m-LoRA: Task to running, need to load adapters: ['lora_finqa_84']
+[2025-12-23 17:59:06,546] m-LoRA: Finish and base model offload adapter - ['lora_finqa_16']
+[2025-12-23 17:59:07,123] m-LoRA: Task to running, need to load adapters: ['lora_finqa_85']
+[2025-12-23 17:59:11,339] m-LoRA: Finish and base model offload adapter - ['lora_finqa_23']
+[2025-12-23 17:59:12,237] m-LoRA: Task to running, need to load adapters: ['lora_finqa_86']
+[2025-12-23 17:59:12,624] m-LoRA: Finish and base model offload adapter - ['lora_finqa_25']
+[2025-12-23 17:59:13,108] m-LoRA: Finish and base model offload adapter - ['lora_finqa_62']
+[2025-12-23 17:59:13,652] m-LoRA: Task to running, need to load adapters: ['lora_finqa_87']
+[2025-12-23 17:59:14,155] m-LoRA: Task to running, need to load adapters: ['lora_finqa_88']
+[2025-12-23 17:59:14,626] m-LoRA: Finish and base model offload adapter - ['lora_finqa_63']
+[2025-12-23 17:59:14,890] m-LoRA: Task to running, need to load adapters: ['lora_finqa_89']
+[2025-12-23 17:59:15,821] m-LoRA: Finish and base model offload adapter - ['lora_finqa_75']
+[2025-12-23 17:59:19,775] m-LoRA: Finish and base model offload adapter - ['lora_finqa_64']
+[2025-12-23 17:59:24,496] m-LoRA: Finish and base model offload adapter - ['lora_finqa_65']
+[2025-12-23 18:02:12,226] m-LoRA: Finish and base model offload adapter - ['lora_finqa_78']
+[2025-12-23 18:02:14,120] m-LoRA: Finish and base model offload adapter - ['lora_finqa_66']
+[2025-12-23 18:02:15,052] m-LoRA: Finish and base model offload adapter - ['lora_finqa_82']
+[2025-12-23 18:02:15,472] m-LoRA: Finish and base model offload adapter - ['lora_finqa_83']
+[2025-12-23 18:02:16,018] m-LoRA: Finish and base model offload adapter - ['lora_finqa_76']
+[2025-12-23 18:02:16,586] m-LoRA: Finish and base model offload adapter - ['lora_finqa_36']
+[2025-12-23 18:02:21,519] m-LoRA: Finish and base model offload adapter - ['lora_finqa_37']
+[2025-12-23 18:02:25,080] m-LoRA: Finish and base model offload adapter - ['lora_finqa_40']
+[2025-12-23 18:03:51,113] m-LoRA: Finish and base model offload adapter - ['lora_finqa_42']
+[2025-12-23 18:03:52,556] m-LoRA: Finish and base model offload adapter - ['lora_finqa_72']
+[2025-12-23 18:03:54,786] m-LoRA: Finish and base model offload adapter - ['lora_finqa_47']
+[2025-12-23 18:03:55,499] m-LoRA: Finish and base model offload adapter - ['lora_finqa_46']
+[2025-12-23 18:03:55,951] m-LoRA: Finish and base model offload adapter - ['lora_finqa_48']
+[2025-12-23 18:03:56,654] m-LoRA: Finish and base model offload adapter - ['lora_finqa_87']
+[2025-12-23 18:03:57,897] m-LoRA: Finish and base model offload adapter - ['lora_finqa_89']
+[2025-12-23 18:04:45,729] m-LoRA: Finish and base model offload adapter - ['lora_finqa_51']
+[2025-12-23 18:04:48,071] m-LoRA: Finish and base model offload adapter - ['lora_finqa_77']
+[2025-12-23 18:04:49,982] m-LoRA: Finish and base model offload adapter - ['lora_finqa_55']
+[2025-12-23 18:05:25,118] m-LoRA: Finish and base model offload adapter - ['lora_finqa_80']
+[2025-12-23 18:05:25,742] m-LoRA: Finish and base model offload adapter - ['lora_finqa_57']
+[2025-12-23 18:05:27,570] m-LoRA: Finish and base model offload adapter - ['lora_finqa_60']
+[2025-12-23 18:05:27,831] m-LoRA: Finish and base model offload adapter - ['lora_finqa_61']
+[2025-12-23 18:05:28,704] m-LoRA: Finish and base model offload adapter - ['lora_finqa_86']
+[2025-12-23 18:05:29,093] m-LoRA: Finish and base model offload adapter - ['lora_finqa_88']
+[2025-12-23 18:06:00,709] m-LoRA: Finish and base model offload adapter - ['lora_finqa_70']
+[2025-12-23 18:06:02,070] m-LoRA: Finish and base model offload adapter - ['lora_finqa_74']
+[2025-12-23 18:06:30,857] m-LoRA: Finish and base model offload adapter - ['lora_finqa_79']
+[2025-12-23 18:06:31,895] m-LoRA: Finish and base model offload adapter - ['lora_finqa_81']
+[2025-12-23 18:06:32,522] m-LoRA: Finish and base model offload adapter - ['lora_finqa_84']
+[2025-12-23 18:06:32,782] m-LoRA: Finish and base model offload adapter - ['lora_finqa_85']

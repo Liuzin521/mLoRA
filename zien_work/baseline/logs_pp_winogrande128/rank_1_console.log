@@ -1,0 +1,465 @@
+[2025-12-23 16:07:55,774] m-LoRA: NVIDIA CUDA initialized successfully.
+[2025-12-23 16:07:55,774] m-LoRA: Total 8 GPU(s) detected.
+[2025-12-23 16:07:55,996] m-LoRA: Pipeline parallelism, rank is 1 and balance is [8, 9, 9, 9].
+[2025-12-23 16:07:55,997] m-LoRA: Loading model with precision - bf16
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:01,  1.58it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:01<00:01,  1.65it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.28it/s]
+[2025-12-23 16:07:57,394] m-LoRA: Some parameters are on the meta device because they were offloaded to the disk.
+[2025-12-23 16:07:57,394] m-LoRA: loading llama compatible model - llama
+[2025-12-23 16:07:57,538] m-LoRA: Adapter lora_winogrande_0 without lr_scheduler.
+[2025-12-23 16:07:57,538] m-LoRA: Adapter lora_winogrande_1 without lr_scheduler.
+[2025-12-23 16:07:57,538] m-LoRA: Adapter lora_winogrande_2 without lr_scheduler.
+[2025-12-23 16:07:57,538] m-LoRA: Adapter lora_winogrande_3 without lr_scheduler.
+[2025-12-23 16:07:57,538] m-LoRA: Adapter lora_winogrande_4 without lr_scheduler.
+[2025-12-23 16:07:57,538] m-LoRA: Adapter lora_winogrande_5 without lr_scheduler.
+[2025-12-23 16:07:57,538] m-LoRA: Adapter lora_winogrande_6 without lr_scheduler.
+[2025-12-23 16:07:57,538] m-LoRA: Adapter lora_winogrande_7 without lr_scheduler.
+[2025-12-23 16:07:57,538] m-LoRA: Adapter lora_winogrande_8 without lr_scheduler.
+[2025-12-23 16:07:57,538] m-LoRA: Adapter lora_winogrande_9 without lr_scheduler.
+[2025-12-23 16:07:57,538] m-LoRA: Adapter lora_winogrande_10 without lr_scheduler.
+[2025-12-23 16:07:57,538] m-LoRA: Adapter lora_winogrande_11 without lr_scheduler.
+[2025-12-23 16:07:57,538] m-LoRA: Adapter lora_winogrande_12 without lr_scheduler.
+[2025-12-23 16:07:57,538] m-LoRA: Adapter lora_winogrande_13 without lr_scheduler.
+[2025-12-23 16:07:57,538] m-LoRA: Adapter lora_winogrande_14 without lr_scheduler.
+[2025-12-23 16:07:57,538] m-LoRA: Adapter lora_winogrande_15 without lr_scheduler.
+[2025-12-23 16:07:57,538] m-LoRA: Adapter lora_winogrande_16 without lr_scheduler.
+[2025-12-23 16:07:57,538] m-LoRA: Adapter lora_winogrande_17 without lr_scheduler.
+[2025-12-23 16:07:57,538] m-LoRA: Adapter lora_winogrande_18 without lr_scheduler.
+[2025-12-23 16:07:57,538] m-LoRA: Adapter lora_winogrande_19 without lr_scheduler.
+[2025-12-23 16:07:57,538] m-LoRA: Adapter lora_winogrande_20 without lr_scheduler.
+[2025-12-23 16:07:57,539] m-LoRA: Adapter lora_winogrande_21 without lr_scheduler.
+[2025-12-23 16:07:57,539] m-LoRA: Adapter lora_winogrande_22 without lr_scheduler.
+[2025-12-23 16:07:57,539] m-LoRA: Adapter lora_winogrande_23 without lr_scheduler.
+[2025-12-23 16:07:57,539] m-LoRA: Adapter lora_winogrande_24 without lr_scheduler.
+[2025-12-23 16:07:57,539] m-LoRA: Adapter lora_winogrande_25 without lr_scheduler.
+[2025-12-23 16:07:57,539] m-LoRA: Adapter lora_winogrande_26 without lr_scheduler.
+[2025-12-23 16:07:57,539] m-LoRA: Adapter lora_winogrande_27 without lr_scheduler.
+[2025-12-23 16:07:57,539] m-LoRA: Adapter lora_winogrande_28 without lr_scheduler.
+[2025-12-23 16:07:57,539] m-LoRA: Adapter lora_winogrande_29 without lr_scheduler.
+[2025-12-23 16:07:57,539] m-LoRA: Adapter lora_winogrande_30 without lr_scheduler.
+[2025-12-23 16:07:57,539] m-LoRA: Adapter lora_winogrande_31 without lr_scheduler.
+[2025-12-23 16:07:57,539] m-LoRA: Adapter lora_winogrande_32 without lr_scheduler.
+[2025-12-23 16:07:57,539] m-LoRA: Adapter lora_winogrande_33 without lr_scheduler.
+[2025-12-23 16:07:57,539] m-LoRA: Adapter lora_winogrande_34 without lr_scheduler.
+[2025-12-23 16:07:57,539] m-LoRA: Adapter lora_winogrande_35 without lr_scheduler.
+[2025-12-23 16:07:57,539] m-LoRA: Adapter lora_winogrande_36 without lr_scheduler.
+[2025-12-23 16:07:57,539] m-LoRA: Adapter lora_winogrande_37 without lr_scheduler.
+[2025-12-23 16:07:57,539] m-LoRA: Adapter lora_winogrande_38 without lr_scheduler.
+[2025-12-23 16:07:57,539] m-LoRA: Adapter lora_winogrande_39 without lr_scheduler.
+[2025-12-23 16:07:57,539] m-LoRA: Adapter lora_winogrande_40 without lr_scheduler.
+[2025-12-23 16:07:57,539] m-LoRA: Adapter lora_winogrande_41 without lr_scheduler.
+[2025-12-23 16:07:57,539] m-LoRA: Adapter lora_winogrande_42 without lr_scheduler.
+[2025-12-23 16:07:57,539] m-LoRA: Adapter lora_winogrande_43 without lr_scheduler.
+[2025-12-23 16:07:57,539] m-LoRA: Adapter lora_winogrande_44 without lr_scheduler.
+[2025-12-23 16:07:57,539] m-LoRA: Adapter lora_winogrande_45 without lr_scheduler.
+[2025-12-23 16:07:57,539] m-LoRA: Adapter lora_winogrande_46 without lr_scheduler.
+[2025-12-23 16:07:57,539] m-LoRA: Adapter lora_winogrande_47 without lr_scheduler.
+[2025-12-23 16:07:57,539] m-LoRA: Adapter lora_winogrande_48 without lr_scheduler.
+[2025-12-23 16:07:57,539] m-LoRA: Adapter lora_winogrande_49 without lr_scheduler.
+[2025-12-23 16:07:57,539] m-LoRA: Adapter lora_winogrande_50 without lr_scheduler.
+[2025-12-23 16:07:57,539] m-LoRA: Adapter lora_winogrande_51 without lr_scheduler.
+[2025-12-23 16:07:57,539] m-LoRA: Adapter lora_winogrande_52 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_53 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_54 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_55 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_56 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_57 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_58 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_59 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_60 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_61 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_62 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_63 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_64 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_65 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_66 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_67 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_68 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_69 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_70 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_71 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_72 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_73 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_74 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_75 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_76 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_77 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_78 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_79 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_80 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_81 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_82 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_83 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_84 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_85 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_86 without lr_scheduler.
+[2025-12-23 16:07:57,540] m-LoRA: Adapter lora_winogrande_87 without lr_scheduler.
+[2025-12-23 16:07:57,541] m-LoRA: Adapter lora_winogrande_88 without lr_scheduler.
+[2025-12-23 16:07:57,541] m-LoRA: Adapter lora_winogrande_89 without lr_scheduler.
+[2025-12-23 16:07:57,541] m-LoRA: RANK-1 in device cuda:1 to load module layers from 8 to 17.
+[2025-12-23 16:07:57,551] m-LoRA: DeviceSwapQueue - ACTIVATIONS_send start.
+[2025-12-23 16:07:57,552] m-LoRA: DeviceSwapQueue - GRADIENTS_send start.
+[2025-12-23 16:07:57,552] m-LoRA: DeviceSwapQueue - ACTIVATIONS_recv start.
+[2025-12-23 16:07:57,553] m-LoRA: DeviceSwapQueue - GRADIENTS_recv start.
+/scr/dataset/yuke/zien/mlora_env/lib/python3.12/site-packages/torch/distributed/distributed_c10d.py:653: UserWarning: You are using a Backend <class 'torch.distributed.distributed_c10d.ProcessGroupGloo'> as a ProcessGroup. This usage is deprecated since PyTorch 2.0. Please use a public API of PyTorch Distributed instead.
+  warnings.warn(
+[2025-12-23 16:08:01,345] m-LoRA: Init rpc with rank 1 world_size: 4
+[2025-12-23 16:08:01,348] m-LoRA: Init train : task_winogrande_0 task with adapters: ['lora_winogrande_0']
+[2025-12-23 16:08:03,500] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:03,571] m-LoRA: Init train : task_winogrande_1 task with adapters: ['lora_winogrande_1']
+[2025-12-23 16:08:05,590] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:05,792] m-LoRA: Init train : task_winogrande_2 task with adapters: ['lora_winogrande_2']
+[2025-12-23 16:08:07,480] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:07,481] m-LoRA: Init train : task_winogrande_3 task with adapters: ['lora_winogrande_3']
+[2025-12-23 16:08:07,746] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:07,747] m-LoRA: Init train : task_winogrande_4 task with adapters: ['lora_winogrande_4']
+[2025-12-23 16:08:07,912] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:08,952] m-LoRA: Init train : task_winogrande_5 task with adapters: ['lora_winogrande_5']
+[2025-12-23 16:08:10,817] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:10,817] m-LoRA: Init train : task_winogrande_6 task with adapters: ['lora_winogrande_6']
+[2025-12-23 16:08:11,205] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:11,411] m-LoRA: Init train : task_winogrande_7 task with adapters: ['lora_winogrande_7']
+[2025-12-23 16:08:13,434] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:13,434] m-LoRA: Init train : task_winogrande_8 task with adapters: ['lora_winogrande_8']
+[2025-12-23 16:08:14,080] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:14,081] m-LoRA: Init train : task_winogrande_9 task with adapters: ['lora_winogrande_9']
+[2025-12-23 16:08:14,843] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:15,031] m-LoRA: Init train : task_winogrande_10 task with adapters: ['lora_winogrande_10']
+[2025-12-23 16:08:16,687] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:16,806] m-LoRA: Init train : task_winogrande_11 task with adapters: ['lora_winogrande_11']
+[2025-12-23 16:08:18,928] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:19,087] m-LoRA: Init train : task_winogrande_12 task with adapters: ['lora_winogrande_12']
+[2025-12-23 16:08:21,061] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:21,127] m-LoRA: Init train : task_winogrande_13 task with adapters: ['lora_winogrande_13']
+[2025-12-23 16:08:23,040] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:23,151] m-LoRA: Init train : task_winogrande_14 task with adapters: ['lora_winogrande_14']
+[2025-12-23 16:08:25,028] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:25,074] m-LoRA: Init train : task_winogrande_15 task with adapters: ['lora_winogrande_15']
+[2025-12-23 16:08:26,965] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:27,062] m-LoRA: Init train : task_winogrande_16 task with adapters: ['lora_winogrande_16']
+[2025-12-23 16:08:29,039] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:29,151] m-LoRA: Init train : task_winogrande_17 task with adapters: ['lora_winogrande_17']
+[2025-12-23 16:08:31,110] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:31,111] m-LoRA: Init train : task_winogrande_18 task with adapters: ['lora_winogrande_18']
+[2025-12-23 16:08:32,773] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:32,774] m-LoRA: Init train : task_winogrande_19 task with adapters: ['lora_winogrande_19']
+[2025-12-23 16:08:34,396] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:34,397] m-LoRA: Init train : task_winogrande_20 task with adapters: ['lora_winogrande_20']
+[2025-12-23 16:08:36,448] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:36,448] m-LoRA: Init train : task_winogrande_21 task with adapters: ['lora_winogrande_21']
+[2025-12-23 16:08:36,815] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:36,815] m-LoRA: Init train : task_winogrande_22 task with adapters: ['lora_winogrande_22']
+[2025-12-23 16:08:37,032] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:37,214] m-LoRA: Init train : task_winogrande_23 task with adapters: ['lora_winogrande_23']
+[2025-12-23 16:08:39,127] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:39,128] m-LoRA: Init train : task_winogrande_24 task with adapters: ['lora_winogrande_24']
+[2025-12-23 16:08:39,266] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:39,453] m-LoRA: Init train : task_winogrande_25 task with adapters: ['lora_winogrande_25']
+[2025-12-23 16:08:41,565] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:41,567] m-LoRA: Init train : task_winogrande_26 task with adapters: ['lora_winogrande_26']
+[2025-12-23 16:08:43,615] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:43,775] m-LoRA: Init train : task_winogrande_27 task with adapters: ['lora_winogrande_27']
+[2025-12-23 16:08:45,522] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:45,522] m-LoRA: Init train : task_winogrande_28 task with adapters: ['lora_winogrande_28']
+[2025-12-23 16:08:47,018] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:47,019] m-LoRA: Init train : task_winogrande_29 task with adapters: ['lora_winogrande_29']
+[2025-12-23 16:08:47,789] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:47,971] m-LoRA: Init train : task_winogrande_30 task with adapters: ['lora_winogrande_30']
+[2025-12-23 16:08:50,183] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:50,184] m-LoRA: Init train : task_winogrande_31 task with adapters: ['lora_winogrande_31']
+[2025-12-23 16:08:52,280] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:52,281] m-LoRA: Init train : task_winogrande_32 task with adapters: ['lora_winogrande_32']
+[2025-12-23 16:08:52,522] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:52,522] m-LoRA: Init train : task_winogrande_33 task with adapters: ['lora_winogrande_33']
+[2025-12-23 16:08:52,751] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:53,008] m-LoRA: Init train : task_winogrande_34 task with adapters: ['lora_winogrande_34']
+[2025-12-23 16:08:55,041] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:55,042] m-LoRA: Init train : task_winogrande_35 task with adapters: ['lora_winogrande_35']
+[2025-12-23 16:08:56,849] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:56,849] m-LoRA: Init train : task_winogrande_36 task with adapters: ['lora_winogrande_36']
+[2025-12-23 16:08:58,743] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:08:58,743] m-LoRA: Init train : task_winogrande_37 task with adapters: ['lora_winogrande_37']
+[2025-12-23 16:09:00,553] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:00,554] m-LoRA: Init train : task_winogrande_38 task with adapters: ['lora_winogrande_38']
+[2025-12-23 16:09:02,560] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:02,560] m-LoRA: Init train : task_winogrande_39 task with adapters: ['lora_winogrande_39']
+[2025-12-23 16:09:04,546] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:04,547] m-LoRA: Init train : task_winogrande_40 task with adapters: ['lora_winogrande_40']
+[2025-12-23 16:09:06,806] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:06,807] m-LoRA: Init train : task_winogrande_41 task with adapters: ['lora_winogrande_41']
+[2025-12-23 16:09:08,639] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:08,640] m-LoRA: Init train : task_winogrande_42 task with adapters: ['lora_winogrande_42']
+[2025-12-23 16:09:10,549] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:10,550] m-LoRA: Init train : task_winogrande_43 task with adapters: ['lora_winogrande_43']
+[2025-12-23 16:09:10,694] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:10,876] m-LoRA: Init train : task_winogrande_44 task with adapters: ['lora_winogrande_44']
+[2025-12-23 16:09:12,483] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:12,483] m-LoRA: Init train : task_winogrande_45 task with adapters: ['lora_winogrande_45']
+[2025-12-23 16:09:13,821] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:13,822] m-LoRA: Init train : task_winogrande_46 task with adapters: ['lora_winogrande_46']
+[2025-12-23 16:09:14,457] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:14,662] m-LoRA: Init train : task_winogrande_47 task with adapters: ['lora_winogrande_47']
+[2025-12-23 16:09:16,654] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:16,654] m-LoRA: Init train : task_winogrande_48 task with adapters: ['lora_winogrande_48']
+[2025-12-23 16:09:18,240] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:18,241] m-LoRA: Init train : task_winogrande_49 task with adapters: ['lora_winogrande_49']
+[2025-12-23 16:09:19,360] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:19,361] m-LoRA: Init train : task_winogrande_50 task with adapters: ['lora_winogrande_50']
+[2025-12-23 16:09:20,345] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:20,520] m-LoRA: Init train : task_winogrande_51 task with adapters: ['lora_winogrande_51']
+[2025-12-23 16:09:22,549] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:22,549] m-LoRA: Init train : task_winogrande_52 task with adapters: ['lora_winogrande_52']
+[2025-12-23 16:09:22,704] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:23,176] m-LoRA: Init train : task_winogrande_53 task with adapters: ['lora_winogrande_53']
+[2025-12-23 16:09:25,150] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:25,150] m-LoRA: Init train : task_winogrande_54 task with adapters: ['lora_winogrande_54']
+[2025-12-23 16:09:25,714] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:25,715] m-LoRA: Init train : task_winogrande_55 task with adapters: ['lora_winogrande_55']
+[2025-12-23 16:09:25,799] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:25,964] m-LoRA: Init train : task_winogrande_56 task with adapters: ['lora_winogrande_56']
+[2025-12-23 16:09:27,499] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:27,499] m-LoRA: Init train : task_winogrande_57 task with adapters: ['lora_winogrande_57']
+[2025-12-23 16:09:29,452] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:29,452] m-LoRA: Init train : task_winogrande_58 task with adapters: ['lora_winogrande_58']
+[2025-12-23 16:09:31,527] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:31,527] m-LoRA: Init train : task_winogrande_59 task with adapters: ['lora_winogrande_59']
+[2025-12-23 16:09:32,389] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:32,395] m-LoRA: Init train : task_winogrande_60 task with adapters: ['lora_winogrande_60']
+[2025-12-23 16:09:33,174] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:33,386] m-LoRA: Init train : task_winogrande_61 task with adapters: ['lora_winogrande_61']
+[2025-12-23 16:09:35,362] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:35,362] m-LoRA: Init train : task_winogrande_62 task with adapters: ['lora_winogrande_62']
+[2025-12-23 16:09:35,586] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:35,724] m-LoRA: Init train : task_winogrande_63 task with adapters: ['lora_winogrande_63']
+[2025-12-23 16:09:37,163] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:37,169] m-LoRA: Init train : task_winogrande_64 task with adapters: ['lora_winogrande_64']
+[2025-12-23 16:09:37,753] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:37,961] m-LoRA: Init train : task_winogrande_65 task with adapters: ['lora_winogrande_65']
+[2025-12-23 16:09:39,743] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:39,744] m-LoRA: Init train : task_winogrande_66 task with adapters: ['lora_winogrande_66']
+[2025-12-23 16:09:41,256] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:41,257] m-LoRA: Init train : task_winogrande_67 task with adapters: ['lora_winogrande_67']
+[2025-12-23 16:09:41,779] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:41,981] m-LoRA: Init train : task_winogrande_68 task with adapters: ['lora_winogrande_68']
+[2025-12-23 16:09:43,139] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:43,351] m-LoRA: Init train : task_winogrande_69 task with adapters: ['lora_winogrande_69']
+[2025-12-23 16:09:45,376] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:45,546] m-LoRA: Init train : task_winogrande_70 task with adapters: ['lora_winogrande_70']
+[2025-12-23 16:09:47,347] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:47,421] m-LoRA: Init train : task_winogrande_71 task with adapters: ['lora_winogrande_71']
+[2025-12-23 16:09:49,453] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:49,453] m-LoRA: Init train : task_winogrande_72 task with adapters: ['lora_winogrande_72']
+[2025-12-23 16:09:51,606] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:51,607] m-LoRA: Init train : task_winogrande_73 task with adapters: ['lora_winogrande_73']
+[2025-12-23 16:09:51,843] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:51,844] m-LoRA: Init train : task_winogrande_74 task with adapters: ['lora_winogrande_74']
+[2025-12-23 16:09:52,261] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:52,510] m-LoRA: Init train : task_winogrande_75 task with adapters: ['lora_winogrande_75']
+[2025-12-23 16:09:54,464] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:54,464] m-LoRA: Init train : task_winogrande_76 task with adapters: ['lora_winogrande_76']
+[2025-12-23 16:09:55,225] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:55,227] m-LoRA: Init train : task_winogrande_77 task with adapters: ['lora_winogrande_77']
+[2025-12-23 16:09:56,219] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:56,431] m-LoRA: Init train : task_winogrande_78 task with adapters: ['lora_winogrande_78']
+[2025-12-23 16:09:58,167] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:58,167] m-LoRA: Init train : task_winogrande_79 task with adapters: ['lora_winogrande_79']
+[2025-12-23 16:09:59,724] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:59,724] m-LoRA: Init train : task_winogrande_80 task with adapters: ['lora_winogrande_80']
+[2025-12-23 16:09:59,870] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:09:59,945] m-LoRA: Init train : task_winogrande_81 task with adapters: ['lora_winogrande_81']
+[2025-12-23 16:10:02,067] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:10:02,067] m-LoRA: Init train : task_winogrande_82 task with adapters: ['lora_winogrande_82']
+[2025-12-23 16:10:02,159] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:10:02,327] m-LoRA: Init train : task_winogrande_83 task with adapters: ['lora_winogrande_83']
+[2025-12-23 16:10:03,982] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:10:04,146] m-LoRA: Init train : task_winogrande_84 task with adapters: ['lora_winogrande_84']
+[2025-12-23 16:10:06,254] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:10:06,399] m-LoRA: Init train : task_winogrande_85 task with adapters: ['lora_winogrande_85']
+[2025-12-23 16:10:08,192] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:10:08,192] m-LoRA: Init train : task_winogrande_86 task with adapters: ['lora_winogrande_86']
+[2025-12-23 16:10:09,854] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:10:09,854] m-LoRA: Init train : task_winogrande_87 task with adapters: ['lora_winogrande_87']
+[2025-12-23 16:10:10,078] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:10:10,203] m-LoRA: Init train : task_winogrande_88 task with adapters: ['lora_winogrande_88']
+[2025-12-23 16:10:11,830] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:10:11,830] m-LoRA: Init train : task_winogrande_89 task with adapters: ['lora_winogrande_89']
+[2025-12-23 16:10:12,867] m-LoRA: Task dataset is empty, maybe in pipeline we do not load dataset.
+[2025-12-23 16:10:12,867] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_0']
+[2025-12-23 16:10:12,989] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_1']
+[2025-12-23 16:10:13,188] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_2']
+[2025-12-23 16:10:13,309] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_3']
+[2025-12-23 16:10:13,362] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_4']
+[2025-12-23 16:10:13,463] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_5']
+[2025-12-23 16:10:13,577] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_6']
+[2025-12-23 16:10:13,700] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_7']
+[2025-12-23 16:10:13,797] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_8']
+[2025-12-23 16:10:13,872] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_9']
+[2025-12-23 16:10:13,977] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_10']
+[2025-12-23 16:10:14,789] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_11']
+[2025-12-23 16:10:15,045] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_12']
+[2025-12-23 16:10:15,233] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_13']
+[2025-12-23 16:10:15,347] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_14']
+[2025-12-23 16:10:15,469] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_15']
+[2025-12-23 16:10:15,649] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_16']
+[2025-12-23 16:11:09,310] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_4']
+[2025-12-23 16:11:09,726] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_17']
+[2025-12-23 16:11:10,244] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_3']
+[2025-12-23 16:11:10,446] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_18']
+[2025-12-23 16:11:11,228] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_14']
+[2025-12-23 16:11:11,685] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_19']
+[2025-12-23 16:11:12,069] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_15']
+[2025-12-23 16:11:12,508] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_20']
+[2025-12-23 16:11:39,956] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_5']
+[2025-12-23 16:11:40,810] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_21']
+[2025-12-23 16:11:41,531] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_6']
+[2025-12-23 16:11:42,403] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_22']
+[2025-12-23 16:11:43,469] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_13']
+[2025-12-23 16:11:43,897] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_23']
+[2025-12-23 16:11:44,050] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_16']
+[2025-12-23 16:11:44,838] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_24']
+[2025-12-23 16:12:18,049] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_21']
+[2025-12-23 16:12:18,814] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_25']
+[2025-12-23 16:12:19,624] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_22']
+[2025-12-23 16:12:20,335] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_26']
+[2025-12-23 16:12:20,544] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_17']
+[2025-12-23 16:12:21,245] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_27']
+[2025-12-23 16:12:49,469] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_1']
+[2025-12-23 16:12:50,352] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_28']
+[2025-12-23 16:12:50,526] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_25']
+[2025-12-23 16:12:51,167] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_29']
+[2025-12-23 16:12:51,357] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_2']
+[2025-12-23 16:12:51,746] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_30']
+[2025-12-23 16:12:51,937] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_7']
+[2025-12-23 16:12:52,255] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_31']
+[2025-12-23 16:12:52,774] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_8']
+[2025-12-23 16:12:53,106] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_32']
+[2025-12-23 16:12:53,344] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_10']
+[2025-12-23 16:12:53,618] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_33']
+[2025-12-23 16:13:20,130] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_27']
+[2025-12-23 16:13:20,488] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_34']
+[2025-12-23 16:13:21,577] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_19']
+[2025-12-23 16:13:22,406] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_35']
+[2025-12-23 16:13:47,998] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_28']
+[2025-12-23 16:13:48,409] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_36']
+[2025-12-23 16:13:49,173] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_30']
+[2025-12-23 16:13:49,499] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_37']
+[2025-12-23 16:13:49,849] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_31']
+[2025-12-23 16:13:50,690] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_38']
+[2025-12-23 16:13:51,765] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_35']
+[2025-12-23 16:13:52,063] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_39']
+[2025-12-23 16:13:52,313] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_24']
+[2025-12-23 16:13:52,604] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_40']
+[2025-12-23 16:14:19,756] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_36']
+[2025-12-23 16:14:20,618] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_41']
+[2025-12-23 16:14:21,375] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_26']
+[2025-12-23 16:14:22,026] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_42']
+[2025-12-23 16:14:23,106] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_40']
+[2025-12-23 16:14:23,727] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_43']
+[2025-12-23 16:14:45,307] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_0']
+[2025-12-23 16:14:45,695] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_44']
+[2025-12-23 16:14:47,225] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_37']
+[2025-12-23 16:14:47,462] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_45']
+[2025-12-23 16:14:47,779] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_9']
+[2025-12-23 16:14:48,113] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_46']
+[2025-12-23 16:14:49,137] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_11']
+[2025-12-23 16:14:49,950] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_47']
+[2025-12-23 16:14:50,621] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_12']
+[2025-12-23 16:14:51,328] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_48']
+[2025-12-23 16:14:51,477] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_43']
+[2025-12-23 16:14:51,810] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_49']
+[2025-12-23 16:15:22,889] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_45']
+[2025-12-23 16:15:23,701] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_50']
+[2025-12-23 16:15:24,022] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_46']
+[2025-12-23 16:15:24,479] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_51']
+[2025-12-23 16:15:24,908] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_18']
+[2025-12-23 16:15:25,329] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_52']
+[2025-12-23 16:15:25,769] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_47']
+[2025-12-23 16:15:26,366] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_53']
+[2025-12-23 16:15:27,465] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_20']
+[2025-12-23 16:15:28,136] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_54']
+[2025-12-23 16:15:52,621] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_52']
+[2025-12-23 16:15:53,053] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_55']
+[2025-12-23 16:15:53,788] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_23']
+[2025-12-23 16:15:54,168] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_56']
+[2025-12-23 16:15:54,549] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_39']
+[2025-12-23 16:15:55,337] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_57']
+[2025-12-23 16:16:23,499] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_41']
+[2025-12-23 16:16:23,966] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_58']
+[2025-12-23 16:16:24,218] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_50']
+[2025-12-23 16:16:24,994] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_59']
+[2025-12-23 16:16:25,783] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_55']
+[2025-12-23 16:16:25,993] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_60']
+[2025-12-23 16:16:27,890] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_57']
+[2025-12-23 16:16:28,455] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_61']
+[2025-12-23 16:16:51,763] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_44']
+[2025-12-23 16:16:52,209] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_62']
+[2025-12-23 16:16:53,595] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_29']
+[2025-12-23 16:16:54,347] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_63']
+[2025-12-23 16:16:54,627] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_59']
+[2025-12-23 16:16:55,212] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_64']
+[2025-12-23 16:16:56,034] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_32']
+[2025-12-23 16:16:56,372] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_65']
+[2025-12-23 16:16:56,492] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_33']
+[2025-12-23 16:16:57,090] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_66']
+[2025-12-23 16:16:57,603] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_49']
+[2025-12-23 16:16:57,811] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_67']
+[2025-12-23 16:17:24,071] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_64']
+[2025-12-23 16:17:24,489] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_68']
+[2025-12-23 16:17:24,973] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_51']
+[2025-12-23 16:17:25,806] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_69']
+[2025-12-23 16:17:26,076] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_34']
+[2025-12-23 16:17:26,361] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_70']
+[2025-12-23 16:17:27,714] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_61']
+[2025-12-23 16:17:28,303] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_71']
+[2025-12-23 16:17:28,566] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_54']
+[2025-12-23 16:17:29,117] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_72']
+[2025-12-23 16:17:54,430] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_38']
+[2025-12-23 16:17:55,274] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_73']
+[2025-12-23 16:17:56,159] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_65']
+[2025-12-23 16:17:56,431] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_74']
+[2025-12-23 16:17:58,129] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_56']
+[2025-12-23 16:17:58,324] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_75']
+[2025-12-23 16:17:58,898] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_71']
+[2025-12-23 16:17:59,256] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_76']
+[2025-12-23 16:18:36,204] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_58']
+[2025-12-23 16:18:36,625] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_77']
+[2025-12-23 16:18:37,329] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_73']
+[2025-12-23 16:18:37,632] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_78']
+[2025-12-23 16:18:37,866] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_42']
+[2025-12-23 16:18:38,279] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_79']
+[2025-12-23 16:18:38,915] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_60']
+[2025-12-23 16:18:39,226] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_80']
+[2025-12-23 16:18:39,364] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_74']
+[2025-12-23 16:18:40,126] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_81']
+[2025-12-23 16:18:40,638] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_75']
+[2025-12-23 16:18:41,222] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_82']
+[2025-12-23 16:18:41,690] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_76']
+[2025-12-23 16:18:41,880] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_83']
+[2025-12-23 16:18:42,094] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_72']
+[2025-12-23 16:18:42,711] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_84']
+[2025-12-23 16:19:11,316] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_62']
+[2025-12-23 16:19:12,088] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_85']
+[2025-12-23 16:19:14,436] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_79']
+[2025-12-23 16:19:14,999] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_86']
+[2025-12-23 16:19:16,707] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_48']
+[2025-12-23 16:19:17,076] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_87']
+[2025-12-23 16:19:17,413] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_67']
+[2025-12-23 16:19:17,778] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_88']
+[2025-12-23 16:19:18,073] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_84']
+[2025-12-23 16:19:18,681] m-LoRA: Task to running, need to load adapters: ['lora_winogrande_89']
+[2025-12-23 16:19:42,483] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_68']
+[2025-12-23 16:19:43,436] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_69']
+[2025-12-23 16:19:43,816] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_70']
+[2025-12-23 16:19:44,580] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_80']
+[2025-12-23 16:19:45,267] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_53']
+[2025-12-23 16:19:45,665] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_82']
+[2025-12-23 16:20:01,845] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_88']
+[2025-12-23 16:20:13,551] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_77']
+[2025-12-23 16:20:13,925] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_78']
+[2025-12-23 16:20:14,891] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_83']
+[2025-12-23 16:20:23,657] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_63']
+[2025-12-23 16:20:24,709] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_86']
+[2025-12-23 16:20:25,322] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_66']
+[2025-12-23 16:20:26,130] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_89']
+[2025-12-23 16:20:45,826] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_81']
+[2025-12-23 16:20:50,824] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_85']
+[2025-12-23 16:20:52,366] m-LoRA: Finish and base model offload adapter - ['lora_winogrande_87']
