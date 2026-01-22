@@ -69,6 +69,34 @@ class RpcTransport(Transport):
         self.__init_rpc()
 
     def __init_rpc(self) -> None:
+
+        import torch.distributed.rpc as rpc
+        import os
+        # 🔥 强制指定通信通道，绕过 GDR 自动探测
+        options = rpc.TensorPipeRpcBackendOptions(
+            num_worker_threads=16,
+            rpc_timeout=300.0,
+            init_method=getattr(self, "init_method", "env://"),
+            
+            # 1. 传输层: 使用 Shared Memory (shm) 加速，TCP (uv) 兜底
+            _transports=["shm", "uv"],
+            
+            # 2. 通道层 (关键!): 
+            # - "cuda_ipc": 显式开启 NVLink/P2P 支持 (单机最快)
+            # - "basic": 基础 CPU 通道 (兜底)
+            # ❌ 哪怕环境变量失效，只要这里不写 "cuda_gdr"，它就绝不敢去碰那个文件！
+            _channels=["cuda_ipc", "basic"]
+        )
+        # import torch.distributed.rpc as rpc
+        # import os
+        # options = rpc.TensorPipeRpcBackendOptions(
+        #     num_worker_threads=16,          # 修复 AttributeError
+        #     rpc_timeout=300.0,
+        #     init_method=getattr(self, "init_method", "env://"), 
+        #     _transports=["shm", "uv"],             # 修复 getBar1SizeOfGpu
+        #     _channels=["basic"]      
+        # )
+
         if "MASTER_ADDR" not in os.environ:
             os.environ["MASTER_ADDR"] = "localhost"
         if "MASTER_PORT" not in os.environ:
@@ -80,8 +108,12 @@ class RpcTransport(Transport):
 
         # will be block when all world size's gpu join the group
         torch.distributed.rpc.init_rpc(
-            f"worker-{self.rank_}", rank=self.rank_, world_size=self.world_size_
+            f"worker-{self.rank_}", rank=self.rank_, world_size=self.world_size_, rpc_backend_options=options
         )
+
+        # torch.distributed.rpc.init_rpc(
+        #     f"worker-{self.rank_}", rank=self.rank_, world_size=self.world_size_, rpc_backend_options=options
+        # )
 
         logging.info(f"Init rpc with rank {self.rank_} world_size: {self.world_size_}")
 
